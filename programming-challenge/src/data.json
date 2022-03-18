@@ -1,0 +1,2247 @@
+{
+    "pagination": {
+    "total": 116017,
+    "limit": 12,
+    "offset": 0,
+    "total_pages": 9669,
+    "current_page": 1,
+    "next_url": "https://api.artic.edu/api/v1/artworks?page=2"
+    },
+    "data": [
+    {
+    "id": 9614,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/9614",
+    "is_boosted": false,
+    "title": "Haunted House",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAABsXFR4ZFh4cHSEcFiAgJS0qJycnLDIrKj86M0YsJkxEOjk6RldGVGFRRn5nWYV3Yoh6Zp+NcaqYdKubggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURIAJNTxFJytA4B5AwixAQRggAOw==",
+    "width": 2003,
+    "height": 2250,
+    "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1931.707",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1930,
+    "date_end": 1930,
+    "date_display": "1930",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Morris Kantor\nAmerican, born Russia (now Belarus), 1896–1974",
+    "place_of_origin": "United States",
+    "dimensions": "94.3 × 84.5 cm (37 1/8 × 33 1/4 in.)",
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Signed and dated lower right: M. Kantor / 1930",
+    "credit_line": "Mr. and Mrs. Frank G. Logan Purchase Prize Fund",
+    "publication_history": "\"'Odd' Painting Wins 1st Prize at Show Here,\" Chicago Daily News, Month illeg. 29, 1931.  Probably Oct. \n\nEleanor Jewett, \"Fine Statues on Display at Art Institute,\" Chicago Tribune, Oct. 20, 1931.\n\nEleanor Jewett, American Exhibition at Institute: Jury Awards First Prize of $2,500 to Morris Kantor for His Canvas, 'Haunted House,'\" Chicago Tribune, Nov. 1, 1931, G4.\n\n\"Chicago's Annual Draws Eyes of Fighters for American Art,\" Art Digest 6, 3 (Nov. 1, 1931), 3–4, ill. p. 3.\n\n“Paintings by Morris Kantor,” Bulletin of the Art Institute of Chicago 25, 9 (December 1931), cover ill., 127.\n\nC. J. Bulliet, \"Art Institute of Chicago Annual Exhibition of American Paintings and Sculpture,\" Creative Art 9 (December 1931), 493–5, ill. p. 493.\n\n\"The Forty–fourth Annual at Chicago,\" American Magazine of Art 23 (Dec. 1931), 487, ill. p. 486.\n\nDaniel Catton Rich, “Fifty Years at Chicago,” Magazine of Art 32, 12 (December 1939), 721.\n\nMorris Kantor, \"Ends and Means,\" Magazine of Art, 33 (March 1940), ill. p. 143.\n\nAnita Ventura, “The Paintings of Morris Kantor,” Arts 30, 7 (May 1956), 31.\n\nMatthew Baigell, \"The Beginnings of 'The American Wave' and the Depression,\" Art Journal 27, 4 (Summer 1968), 391–92, ill. p. 392.\n\nMatthew Baigell, The American Scene: American Painting of the 1930's (Praeger Publishers, 1974), 21, ill. 7, 22.\n\nJudith A. Barter et al., American Modernism at the Art Institute of Chicago, From World War I to 1955, (Chicago: Art Institute of Chicago/Yale University Press, 2009), cat. 80.",
+    "exhibition_history": "Art Institute of Chicago, Forty–Fourth Annual Exhibition of American Paintings and Sculpture, Oct 29–Dec 13, 1931, cat. 97, pl. 97 (Mr. and Mrs. Frank G. Logan Medal).\n\nArt Institute of Chicago, Paintings by Morris Kantor, Dec 22, 1931–Jan 17, 1932, no cat.\n\nArt Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, Jun 1–Nov 1, 1933, cat. 573.\n\nArt Institute of Chicago, A Century of Progress Exhibition of Paintings and Sculpture, Jun 1–Nov 1, 1934, cat. 601.\n\nNew York, The Buffalo Fine Arts Academy, Albright Art Gallery, Art of Today, Jan 3–31, 1936. Late loan, not in catalogue but confirmed by archival documentation.\n\nArt Institute of Chicago, Half a Century of American Art, Nov 16, 1939–Jan 7, 1940, cat. 88, pl. XLVII.\n\nNew York, Museum of Modern Art, Romantic Painting in America, Nov 15, 1943–Feb 16, 1944, ; Milwaukee Art Institute, Mar 3–31, 1944; Northampton, Massachusetts, Smith College Museum of Art, Apr 15–Jun 20, 1944; San Francisco Museum of Art, Aug 15–Sep 17, 1944; Oregon, Portland Art Museum, Oct 1–29, 1944; Seattle Art Museum, Nov 10–Dec 10, 1944; City Museum of St. Louis, Jan 2–30, 1945; University Gallery, University of Minnesota, Feb 13–Mar 13, 1945; St. Paul Gallery and School of Art, Apr 1–29, 1945, cat. 19, ill.\n\nOhio, Columbus Gallery of Fine Arts, Twelve Contemporary Americans, Oct 4–Nov 13, 1945, unnumbered checklist.\n\nLondon, The Tate Gallery, American Painting for the Eighteenth Century to the Present Day, Jun–Jul 1946, cat. 126.\n\nIowa, Davenport Municipal Art Gallery, Morris Kantor Retrospective, Jun 3–27, 1965, cat. 4.\n\nColumbus, Ohio State University, America, Oct 13–31, 1968, no cat.\n\nReno, Sierra Nevada Museum of Art, 1931 America: The Artist’s View, Sep 12–Oct 30, 1982, San Diego State University, Nov 20–Dec 18, 1982, unnumbered checklist.\n\nArt Institute of Chicago, America After the Fall: Painting in the 1930s, Jun 5–Sep 18, 2016; Paris, Musee de l'Orangerie, Oct 15, 2016–Jan 30, 2017; London, Royal Academy, Feb 25–Jun 4, 2017, cat. 28.\n\nToledo, OH, Toledo Museum of Art, Supernatural America: The Paranormal in American Art, Jun 12–Sept 5, 2021; Louisville, KY, Speed Art Museum, Oct 7, 2021–Jan 2, 2022; Minneapolis, MN, Minneapolis Insittute of Art, Feb 19–May 15, 2022.",
+    "provenance_text": "Morris Kantor (1896–1974), 1930; sold to the Art Institute of Chicago, 1931.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1932,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 29.541,
+    "color": {
+    "h": 46,
+    "l": 51,
+    "s": 66,
+    "percentage": 0.0012526289550193468,
+    "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to Minneapolis Institute of Arts in Minneapolis for <i>Supernatural America: The Paranormal in American Art</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 35195,
+    "artist_title": "Morris Kantor",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    35195
+    ],
+    "artist_titles": [
+    "Morris Kantor"
+    ],
+    "category_ids": [
+    "PC-834",
+    "PC-3"
+    ],
+    "category_titles": [
+    "Halloween",
+    "Arts of the Americas"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "oil on canvas",
+    "oil paint (paint)",
+    "Surrealism",
+    "architecture",
+    "canvas",
+    "painting",
+    "modern and contemporary art",
+    "Modernism",
+    "Century of Progress",
+    "world's fairs",
+    "Chicago World's Fairs"
+    ],
+    "style_id": "TM-7551",
+    "style_title": "Surrealism",
+    "alt_style_ids": [
+    "TM-5981"
+    ],
+    "style_ids": [
+    "TM-7551",
+    "TM-5981"
+    ],
+    "style_titles": [
+    "Surrealism",
+    "Modernism"
+    ],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-155"
+    ],
+    "classification_ids": [
+    "TM-66",
+    "TM-9",
+    "TM-155"
+    ],
+    "classification_titles": [
+    "oil on canvas",
+    "painting",
+    "modern and contemporary art"
+    ],
+    "subject_id": "TM-12085",
+    "alt_subject_ids": [
+    "TM-12169",
+    "TM-11299",
+    "TM-12176"
+    ],
+    "subject_ids": [
+    "TM-12085",
+    "TM-12169",
+    "TM-11299",
+    "TM-12176"
+    ],
+    "subject_titles": [
+    "architecture",
+    "Century of Progress",
+    "world's fairs",
+    "Chicago World's Fairs"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+    "TM-3124"
+    ],
+    "material_ids": [
+    "TM-2451",
+    "TM-3124"
+    ],
+    "material_titles": [
+    "oil paint (paint)",
+    "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+    "Halloween"
+    ],
+    "image_id": "0330a6dd-774e-eff1-0073-2be5f85b81d0",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1931.707"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Haunted House"
+    ],
+    "weight": 6051,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:48-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 16571,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/16571",
+    "is_boosted": true,
+    "title": "Arrival of the Normandy Train, Gare Saint-Lazare",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAADU8QkROS0ZPU0hSVk1YXVFWUlBXXlFaWVNcWFFkV1plVVtjWmBnWmFqXmRrX05ZYFFaYlljbF5qbGNsY2ZydmlzdWRxeGdze2l1fWx3fG16enJ4fH+KioWOkZeam5yjqZ2lqrG1ubS6vwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQIKmYslQDoONp8ORBECi0OfyKEAMmAhAgFhMHA2GIhEEADs=",
+    "width": 6786,
+    "height": 5092,
+    "alt_text": "Loosely painted image of an open-air train station. On the right, a parked train gives off an enormous plumb of white smoke, making the scene look as though it were full of clouds. A huddled mass of barely discernible people crowd around the train on both sides of the tracks. Blue, green, and gray tones dominate."
+    },
+    "main_reference_number": "1933.1158",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1877,
+    "date_end": 1877,
+    "date_display": "1877",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Claude Monet\nFrench, 1840-1926",
+    "place_of_origin": "France",
+    "dimensions": "60.3 × 80.2 cm (23 3/4 × 31 1/2 in.)",
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Inscribed, lower left: Claude Monet 77",
+    "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+    "publication_history": "Catalogue de la 3e exposition de peinture, exh. cat. (E. Capiomont et V. Renault, 1877), p. 9, cat. 97. \n\nA. P[othey], “Beaux arts,” Le petit parisien, Apr. 7, 1877, p. 2. \n\n“Exposition des impressionnistes: 6, rue Le Peletier; 6,” La petite république française Apr. 10, 1877, p. 2. Reprinted in Ruth Berson, ed., The New Painting: Impressionism, 1874–1886, Documentation, vol. 1, Reviews(Fine Arts Museums of San Francisco/University of Washington Press, 1996), p. 176.\n\nErnest Fillonneau, “Les impessionnistes,” Moniteur des arts, Apr. 20, 1877, p. 1.\n\nCharles Bigot, “Causerie artistique. L’exposition des ‘impressionnistes,’” La revue politique et littéraire, Apr. 28, 1877, p. 1047.\n\nGustave Geffroy, “Salon de 1887. Hors du Salon: Claude Monet,” La justice, pt. 2, June 2, 1887, p. 1.\n\nGalerie Georges Petit, Claude Monet—A. Rodin, exh. cat. (Imp. de l’Art, 1889), p. 31, cat. 33. \n\nJ. A., “Beaux-Arts. Exposition de la galerie Georges Petit,” Art et critique 5 (June 29, 1889), p. 76.\n\nGustave Geffroy, “Histoire de l’impressionnisme,” La vie artistique 3, 2 (1894), p. 68. \n\nAndré Mellerio, L’exposition de 1900 et l’impressionnisme (H. Floury, 1900), p. 20.\n\nLudovic Baschet, ed., Catalogue officiel illustré de l’Exposition centennale de l’art français de 1800 à 1889, exh. cat. (Lemercier, 1900), p. 211, cat. 484. \n\nOctave Maus, Exposition des peintres impressionnistes, exh. cat. (Libre Esthétique, 1904), p. 39, cat. 98.\n\nArt Institute of Chicago, General Catalogue of Paintings Sculpture and Other Objects in the Museum (Art Institute of Chicago, 1914), p. 211, cat. 2138.\n\nGustave Geffroy, Claude Monet: Sa vie, son temps, son oeuvre (G. Crès, 1922) pp. 92; 118; opp. p. 136 (ill.); 272. \n\nCamille Mauclair, Claude Monet (F. Rieder, 1924), pp. 61; pl. 20. Translated by J. Lewis May as Claude Monet (Dodd, Mead, 1924), pp. 5; pl. 20. \n\nArt Institute of Chicago, A Guide to the Paintings in the Permanent Collection (Art Institute of Chicago, 1925), p. 162, cat. 2140. \n\nM. C., “Monets in the Art Institute,” Bulletin of the Art Institute of Chicago 19, 2 (Feb. 1925), p. 19 (ill.).\n\nFlorent Fels, Claude Monet, Les peintres français nouveaux 22 (Gallimard, 1925), p. 45 (ill.).\n\nMadeleine Octave Maus, “Exposition des peintres impressionnistes,” in Trente années de lutte pour l’art, 1884–1914 (L’Oiseau Bleu, 1926), p. 323. \n\nLouis Réau, L’art français aux États-Unis: Ouvrage illustré de vingt-quatre planches hors texte (Henri Laurens, 1926), p. 163.\n\nLéon Werth, Claude Monet (G. Crès, 1928), pl. 26.\n\nXenia Lathom, Claude Monet (Philip Allan, 1931), pl. 16 (ill.).\n\nAnthony Bertram, Claude Monet, World’s Masters (Studio/William Edwin Rudge, 1931), pl. 11.\n\nDaniel Catton Rich, “The Paintings of Martin A. Ryerson,” Bulletin of the Art Institute of Chicago 27, 1 (Jan. 1933), pp. 9, 11 (ill.).\n\nArt Institute of Chicago, Catalogue of “A Century of Progress”: Exhibition of Paintings and Sculpture; Lent from American Collections, ed. Daniel Catton Rich, 3rd ed., exh. cat. (Art Institute of Chicago, 1933), p. 44, cat. 299.\n\nDaniel Catton Rich, “Französische Impressionisten im Art Institute zu Chicago,” Pantheon: Monatsschrift für freunde und sammler der kunst 11, 3 (Mar. 1933), p. 77. Translated by C. C. H. Drechsel as “French Impressionists in the Art Institute of Chicago,” Pantheon/Cicerone (Mar. 1933), p. 18.\n\nArt Institute of Chicago, Catalogue of “A Century of Progress”: Exhibition of Paintings and Sculpture, 1934, ed. Daniel Catton Rich, exh. cat. (Art Institute of Chicago, 1934), pp. 37–38, cat. 219.\n\nMuseum of Fine Arts, Boston, Independent Painters of Nineteenth Century Paris, exh. cat. (Museum of Fine Arts, Boston, [1935]), p. 24, cat. 32.\n\nArt Institute of Chicago, A Brief Illustrated Guide to the Collections (Art Institute of Chicago, 1935), p. 28. \n\nHans Tietze, Meisterwerke Europäischer Malerei in Amerika (Phaidon, 1935), pp. 289 (ill.); 344–45, no. 289.\n\nGeorge Slocombe, “Giver of Light,” Coronet (Mar. 1938), p. 20 (ill.).\n\nLionello Venturi, Les archives de l’impressionnisme: Lettres de Renoir, Monet, Pissarro, Sisley et autres; Mémoires de Paul Durand-Ruel; Documents, vol. 2 (Durand-Ruel, 1939), pp. 260, 303.\n\nThomas Craven, ed., A Treasury of Art Masterpieces, From the Renaissance to the Present Day (Simon & Schuster, 1939), pp. 506–07, pl. 123.\n\nWalter Pach, Catalogue of European and American Paintings, 1500–1900: Masterpieces of Art, New York World’s Fair, biographies and notes compiled by Christopher Lazare, with the assistance of Anne A. Wallis, Marion Haviland, and Simonetta de Vries, exh. cat. (Art Aid, [1940]), p. 223, cat. 322.\n\nAlfred M. Frankfurter, “383 Masterpieces of Art: The World’s Fair Exhibition of Paintings of Four Centuries Loaned from American Public and Private Collections,” Art News, May 25, 1940, pp. 41 (ill.), 64.\n\nRegina Shoolman and Charles E. Slatkin, The Enjoyment of Art in America, with an introduction by George Harold Edgell (Lippincott, 1942), pp. 557; 609, pl. 537.\n\nHans Huth, “Impressionism Comes to America,” Gazette des beaux-arts 29 (1946), pp. 238, fig. 13; 239, n. 22; 240.\n\nOscar Reuterswärd, Monet: En Konstnärshistorik (Bonniers, 1948), opposite p. 104 (ill.); pp. 112, 281.\n\nGeorge Besson, Claude Monet (1840–1926), Collection les maîtres 32 (Braun, [1949]), pl. 34. \n\nKenneth Clark, Landscape into Art (John Murray, 1949), pl. 89; p. 102.\n\nDayton Art Institute, The Railroad in Painting, exh. cat. (Dayton Art Institute, 1949), cat. 50 (ill.).\n\nMassachusetts Institute of Technology, The Painter and the City, ed. Gyorgy Kepes, with the assistance of Jane M. Bagg, exh. cat. (Massachusetts Institute of Technology, 1950), (ill.).\n\nPhiladelphia Museum of Art, Diamond Jubilee Exhibtion: Masterpieces of Painting, exh. cat. (Philadelphia Museum of Art, 1950), cat. 70 (ill.).\n\nLionello Venturi, Impressionisti e Simbolisti: Da Manet a Lautrec (Del Turco, 1950), pp. 59; 211, fig. 56. Translated by Francis Steegmuller as Impressionists and Symbolists (Charles Scribner’s Sons, 1950), pp. 61; fig. 56.\n\nLouis Zara, ed., Masterpieces, Home Collection of Great Art 1 (Ziff-Davis, 1950), p. 118 (ill.).\n\nArt Institute of Chicago, Masterpieces in the Art Institute of Chicago (Art Institute of Chicago, 1952), n.pag. (ill.).\n\nM. K. R., “An Exhibition for Paris,” Art Institute of Chicago Quarterly 49, 2 (Apr. 1, 1955), pp. 28, 30.\n\nMusée de l’Orangerie, De David à Toulouse-Lautrec: Chefs-d’oeuvre des collections américaines, exh. cat. (Musée de l’Orangerie, 1955), pp. 60–61, cat. 42 and pl. 41; 129, pl. 41 and cat. 42. James Thrall Soby, “Foreword/Introduction,” in Musée de l’Orangerie, De David à Toulouse-Lautrec: Chefs-d’oeuvre des collections américaines, exh. cat. (Musée de l’Orangerie, 1955), pp. 20, 29.\n\nArt Institute of Chicago, “Homage to Claude Monet,” Art Institute of Chicago Quarterly 51, 2 (Apr. 1, 1957), pp. 21–22 (ill.).\n\nArt Institute of Chicago, “Catalogue,” Art Institute of Chicago Quarterly 51, 2 (Apr. 1, 1957), p. 33.\n\nDenis Rouart, Claude Monet, trans. James Emmons (Skira, 1958), p. 70.\n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago: A Catalogue of the Picture Collection (Art Institute of Chicago, 1961), pp. 279 (ill.), 318–19. \n\nLeopold Reidemeister, Auf den Spuren der Maler der Ile de France: Topographische Beiträge zur Geschichte der französischen Landschaftsmalerei von Corot bis zu den Fauves (Propyläen, 1963), p. 114 (ill.).\n\nRemus Niculeseu, “Georges de Bellio, l’ami des impressionnistes,” Revue roumaine d’histoire de l’art 1, 2 (1964), pp. 215, 241, 250, 252, 253, 258, 264.\n\nHaus der Kunst München, Französische Malerei des 19. Jahrhunderts: Von David bis Cézanne, with a preface by Germain Bazin, exh. cat. (Haus der Kunst München [1964]), pp. 416–17, cat. 191 (ill.).\n\nFrederick A. Sweet, “Great Chicago Collectors,” Apollo 84 (Sept. 1966), pp. 201, fig. 31; 202.\n\nDaniel Wildenstein, “Claude Monet,” in Kindlers Malerei Lexikon, vol. 4 (Kindler, [1967]), pp. 464 (ill.), 470.\n\nMinneapolis Institute of Arts, The Past Rediscovered: French Paintings, 1800–1900, exh. cat. (Minneapolis Institute of Arts, 1969), pp. 18; 146–47, cat. 60 (ill.).\n\nRemus Niculescu, “Georges de Bellio, l’ami des Impressionnistes (I),” Paragone 247 (Sept. 1970), pp. 34, 40, 53. \n\nRemus Niculescu, “Georges de Bellio, l’ami des Impressionnistes (II),” Paragone 249 (Nov. 1970), pp. 47, n. 2; 62; 65–66. \n\nJohn Maxon, The Art Institute of Chicago (Abrams, 1970), p. 82 (ill.), 284. \n\nWildenstein and Company, “One Hundred Years of Impressionism”: A Tribute to Durand-Ruel, with a preface by Florence Gould, exh. cat. (Wildenstein, 1970), pl. 37.\n\nArt Institute of Chicago, “Lecturer’s Choice,” Bulletin of the Art Institute of Chicago 67, 4 (Jul. –Aug. 1973), p. 11.\n\nDonald E. Gordon, Modern Art Exhibitions, 1900–1916: Selected Catalogue Documentation, vol. 2 (Prestel, 1974), p. 90.\n\nDaniel Wildenstein, Claude Monet: Biographie et catalogue raisonné, vol. 1, Peintures, 1840–1881 (Bibliothèque des Arts, 1974), pp. 84; 304; 305, cat. 440 (ill.); 447, pièces justificatives 60–63, 65, 68.\n\nGrace Seiberling, “The Evolution of an Impressionist,” in Paintings by Monet, ed. Susan Wise, exh. cat. (Art Institute of Chicago, 1975), pp. 27, 28.\n\nSusan Wise, ed., Paintings by Monet, exh. cat. (Art Institute of Chicago, 1975), p. 96, cat. 42 (ill.).\n\nM. Therese Southgate, “About the Cover,” JAMA: The Journal of the American Medical Association 233, 3 (July 21, 1975), cover (ill.); p. 259 (ill.).\n\nGuy Hubbard and Mary J. Rouse, Art: Discovering and Creating (Benefic, 1977), p. 178 (ill.).\n\nArt Institute of Chicago, 100 Masterpieces (Art Institute of Chicago, 1978), pp. 92–93, pl. 50.\n\nLuigina Rossi Bortolatto, L’opera completa di Claude Monet: 1870–1889, Classici dell’arte 63 (Rizzoli, 1978), pp. 97, cat. 140 (ill.); 98.\n\nRoger Terry Dunn, “The Monet-Rodin Exhibition at the Galerie Georges Petit in 1889” (Ph.D. diss., Northwestern University, 1978), p. 247.\n\nDaniel Wildenstein, Claude Monet: Biographie et catalogue raisonné, vol. 3, Peintures, 1887–1898 (Bibliothèque des Arts, 1979), p. 249, letter 986.\n\nJ. Patrice Marandel, The Art Institute of Chicago: Favorite Impressionists Paintings (Crown, 1979), pp. 56, 57 (ill.).\n\nJ. Patrice Marandel, “New Installation of Earlier Paintings,” Bulletin of the Art Institute of Chicago 73, 1 (Jan.–Feb., 1979), p. 15 (ill.).\n\nRodolphe Walter, “Saint-Lazare l’impressionniste,” L’oeil 292 (Nov. 1979), pp. 52, 53.\n\nDiane Kelder, The Great Book of French Impressionism (Abbeville, 1980), p. 205 (ill.). \n\nDiane Kelder, The Great Book of French Impressionism, Tiny Folios (Abbeville, 1980), p. 121, pl. 13.\n\nTheodore Reff, Manet and Modern Paris, exh. cat. (National Gallery of Art, Washington, D.C./Eastern, 1982), pl. 7 and cat. 14.\n\nRobert Gordon and Andrew Forge, Monet (Abrams, 1983), pp. 77 (ill.), 290.\n\nAndrea P. A. Belloli, ed., A Day in the Country: Impressionism and the French Landscape, exh. cat. (Los Angeles County Museum of Art, 1984), p. 365.\n\nHélène Adhémar, “Ernest Hoschedé,” in Aspects of Monet: A Symposium on the Artist’s Life and Times, ed. John Rewald and Frances Weitzenhoffer (Abrams, 1984), pp. 69, n. 23; 70, n. 30.\n\nRichard R. Brettell, “The Impressionist Landscape and the Image of France,” in A Day in the Country: Impressionism and the French Landscape, ed. Andrea P. A. Belloli, exh. cat. (Los Angeles County Museum of Art, 1984), p. 48.\n\nSylvie Gache-Patin, “The Urban Landscape,” in A Day in the Country: Impressionism and the French Landscape, ed. Andrea P. A. Belloli, exh. cat. (Los Angeles County Museum of Art, 1984), pp. 114; 116; 125, no. 32 (ill.); 126.\n\nCharles F. Stuckey, ed., Monet: A Retrospective (Hugh Lauter Levin, 1985), p. 61 (ill.).\n\nRichard R. Brettell, “Le paysage impressionniste et l’image de la France,” in Réunion des Musées Nationaux, L’impressionnisme et le paysage français, exh. cat. (Réunion des Musées Nationaux, 1985), p. 39.\n\nSylvie Gache-Patin, “Le paysage urbain,” in Réunion des Musées Nationaux, L’impressionnisme et le paysage français, exh. cat. (Réunion des Musées Nationaux, 1985), pp. 184; 188; 190–91; 196–97, no. 70 (ill.).\n\nJohn House, “Monet and the Genesis of His Series,” in Auckland City Art Gallery, Claude Monet: Painter of Light, exh. cat. (Auckland City Art Gallery/NZI, 1985), pp. 12; 17, fig. 7.\n\nRichard H. Love, Theodore Earl Butler: Emergence from Monet’s Shadow (Haase-Mumm, 1985), pl. 9.\n\nGuy Cogeval, Les années post-impressionnistes (Nouvelles Éditions Françaises, 1986), p. 11, fig. 15.\n\nCharles S. Moffett, ed., The New Painting: Impressionism, 1874–1886, exh. cat. (Fine Arts Museums of San Francisco, 1986), pp. 205; 222–23, cat. 51 (ill.).\n\nRichard R. Brettell, “The ‘First’ Exhibition of Impressionist Painters,” in The New Painting: Impressionism, 1874–1886, ed. Charles S. Moffett, exh. cat. (Fine Arts Museums of San Francisco, 1986), pp. 189, 198.\n\nRichard R. Brettell, French Impressionists (Art Institute of Chicago/Abrams, 1987), front cover (detail); pp. 42 (ill.), 43, 118, back cover (ill.).\n\nArt Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James N. Wood and Katharine C. Lee (Art Institute of Chicago/New York Graphic Society Books/Little, Brown, 1988), pp. 9, 59 (ill.), 167.\n\nClaire De Narbonne-Fontanieu, “Journey through a Cultural Landscape,” France Magazine 10 (Spring 1988), p. 20 (ill.).\n\nMusée Rodin, Claude Monet—Auguste Rodin: Centenaire de l’exposition de 1889, exh. cat. (Musée Rodin, 1989), pp. 54, 79 (ill.).\n\nAnne Distel, Les collectionneurs des impressionnistes (Bibliothèque des Arts, 1989), p. 115. Translated by Barbara Perroud-Benson as Impressionism, The First Collectors, 1874–1886 (Abrams, 1990), p. 115.\n\nDavid Bomford, Jo Kirby, John Leighton, and Ashok Roy, Art in the Making: Impressionism, exh. cat.(National Gallery, Washington, D.C./Yale University Press, 1990), pp. 166, pl. 163; 170–71.\n\nBernard L. Myers, Monet, Methods of the Masters (Brian Trodd, 1990), p. 67 (ill.).\n\nKarin Sagner-Düchting, Claude Monet, 1840–1926: Ein Fest für die Augen (Benedikt Taschen, 1990), pp. 95 (ill.), 96. Translated Karen Williams Claude Monet, 1840–1926: A Feast for the Eyes (Taschen, 2004), p. 95 (ill.), 96.\n\nNorma Broude, Impressionism: A Feminist Reading, The Gendering of Art, Science, and Nature in the Nineteenth Century (Rizzoli, 1991), pp. 74; 75; 108, pl. 30; 109, pl. 32 (detail).\n\nIngo F. Walther and Peter H. Feist, Malerei des Impressionismus, 1860–1920: Der Impressionismus in Frankreich, vol. 1 (Benedikt Taschen, 1992), pp. 152, 170 (ill.).\n\nSophie Fourny-Dargère, Monet, Profils de l’art (Chêne, 1992), pp. 82; 87, fig. 2.\n\nArt Institute of Chicago, The Art Institute of Chicago: The Essential Guide, selected by James N. Wood and Teri J. Edelstein, entries written and compiled by Sally Ruth May (Art Institute of Chicago, 1993), p. 155 (ill.). \n\nArt Institute of Chicago, Treasures of 19th- and 20th-Century Painting: The Art Institute of Chicago, with an introduction by James N. Wood (Art Institute of Chicago/Abbeville, 1993), p. 70 (ill.).\n\nJeffrey Coven, Baudelaire’s Voyages: The Poet and His Painters, exh. cat. (Heckscher Museum/Little, Brown, 1993), p. 90, fig. 56; 170.\n\nArt Institute of Chicago and Niigata Prefectural Museum of Modern Art, Shikago bijutsukan ten: Kindai kaiga no 100-nen [Masterworks of modern art from the Art Institute of Chicago], exh. cat. (Asahi Shinbunsha, 1994), pp. 52, cat. 7; 53 (ill.).\n\nCharles F. Stuckey, “Chicago’s Fortune: Patrons of Modern Paintings and The Art Institute of Chicago,” in Art Institute of Chicago and Niigata Prefectural Museum of Modern Art, Shikago bijutsukan ten: Kindai kaiga no 100-nen [Masterworks of modern art from the Art Institute of Chicago], exh. cat. (Asahi Shinbunsha, 1994), p. 18.\n\nGeorge T. M. Shackelford, “The Age of Impressionism,” in Emily Ballew Neff and George T. M. Shackelford, American Painters in the Age of Impressionism, exh. cat. (Museum of Fine Arts, Houston, 1994), pp. 19; 20, fig. 7.\n\nAndrew Forge, Monet, Artists in Focus (Art Institute of Chicago, 1995), pp. 22–24; 76, pl. 5; 106.\n\nCharles F. Stuckey, with the assistance of Sophia Shaw, Claude Monet, 1840–1926, exh. cat. (Art Institute of Chicago/Thames & Hudson, 1995), pp. 16, 73, cat. 50 (ill.); 202.\n\nLynn Federle Orr, “Monet: An Introduction,” in New Orleans Museum of Art and Fine Arts Museums of San Francisco, Monet: Late Paintings of Giverny from the Musée Marmottan, exh. cat. (New Orleans Museum of Art/Fine Arts Museums of San Francisco/Abrams, 1995), pp. 18; 19, fig. 5.\n\nRobert Rosenblum, “Impressionismen, byen og det modern liv,” in Impressionister i byen, ed. Anne-Birgitte Fonsmark and Mikael Wivel, exh. cat. (Ordrupgaard, 1996), pp. 16, fig. 5 and cat. 44; 18. Translated as “Impressionism, the City and Modern Life,” in Impressionists in Town, ed. Anne-Birgitte Fonsmark and Mikael Wivel, exh. cat. (Ordrupgaard, 1996), pp. 16, fig. 5 (cat. 44); 18.\n\nAnne-Birgitte Fonsmark and Mikael Wivel, eds., Impressionister i byen, exh. cat. (Ordrupgaard, 1996), p. 105, cat. 44. Translated as Impressionists in Town, exh. cat. (Ordrupgaard, 1996), p. 106, cat. 44.\n\nRuth Berson, ed., The New Painting: Impressionism, 1874–1886, Documentation, vol. 1, Reviews (Fine Arts Museums of San Francisco/University of Washington Press, 1996), pp. 119, 134, 146, 173, 176.\n\nRuth Berson, ed., The New Painting: Impressionism, 1874–1886, Documentation, vol. 2, Exhibited Works (Fine Arts Museums of San Francisco/University of Washington Press, 1996), pp. 76, 94 (ill.).\n\nDaniel Wildenstein, Monet, or The Triumph of Impressionism, cat. rais., vol. 1 (Taschen/Wildenstein Institute, 1996), pp. 125, 128.\n\nDaniel Wildenstein, Monet: Catalogue raisonné/Werkverzeichnis, vol. 2, Nos. 1–968 (Taschen/Wildenstein Institute, 1996), pp. 178, cat. 440 (ill.); 179–80.\n\nStephan Koja, Claude Monet, exh. cat. (Österreichische Galerie, Belvedere, Vienna/Prestel, 1996), pp. 67; 71, cat. 24 (ill.); 216. Translated by John Brownjohn as Claude Monet, exh. cat. (Österreichische Galerie/Prestel, 1996), pp. 67; 71, cat. 24 (ill.); 216.\n\nElisabeth West FitzHugh, ed., Artists’ Pigments: A Handbook of Their History and Characteristics, vol. 3 (National Gallery of Art, Washington, D.C./Oxford University Press, 1997), pp. 286; 287, fig. 12.\n\nM. Therese Southgate, The Art of JAMA: One Hundred Covers and Essays from the Journal of the American Medical Association (Mosby, 1997), pp. 8–9 (ill.).\n\nMeyer Schapiro, Impressionism: Reflections and Perceptions (Braziller, 1997), p. 104, fig 41.\n\nJuliet Wilson-Bareau, Manet, Monet, and the Gare Saint-Lazare, exh. cat. (National Gallery of Art, Washington, D.C./Yale University Press, 1998), frontispiece (detail); pp. 111; 112, fig. 99 (cat. 47); 188, n. 83; 199.\n\nJuliet Wilson-Bareau, Manet, Monet, la Gare Saint-Lazare, trans. Isabelle Taudière, exh. cat. (Réunion des Musées Nationaux/Yale University Press, 1998), frontispiece (detail); pp. 111; 112, fig. 99 (cat. 47); 189, n. 83.\n\nBrigitte Béranger-Menand, “Les huit expositions impressionnistes. Profil d’un groupe: 1874–1886,” in Alain Tapié, Brigitte Béranger-Menand, and Yona Beldimaw, Chemins de l’impressionnisme:Normandie–Paris,1860–1910, exh. cat. (Landesmuseum Joanneum, 1998), p. 26.\n\nEmily D. Bilski, Berlin Metropolis: Jews and the New Culture, 1890–1918, exh. cat. (University of California Press/Jewish Museum, 1999), pp. 119; 120, fig. 101.\n\nArt Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James N. Wood (Art Institute of Chicago/Hudson Hills, 1999), pp. 8, 54, 55 (ill.).\n\nSimonella Condemi and Andrew Forge, Claude Monet: La poesia della luce; Sette capolavori dell’Art Institute di Chicago a Palazzo Pitti, exh. cat. (Giunti Gruppo, 1999), pp. 26, 27 (ill.), 28, 29 (detail).\n\nThomas McBurney, Artistic Greatness: A Comparative Exploration of Michelangelo, Beethoven, and Monet (Galde Press, 1999), p. 277 (ill.)\n\nGina Frese, Dow Chemical Portrayed, exh. cat. (Chemical Heritage Foundation, 2000), pp. 4, 5 (ill.).\n\nArt Institute of Chicago, Impressionism and Post-Impressionism in the Art Institute of Chicago, selected by James N. Wood (Art Institute of Chicago/Hudson Hills, 2000), p. 54 (ill.).\n\nArt Institute of Chicago, Treasures from the Art Institute of Chicago, selected by James N. Wood, commentaries by Debra N. Mancoff (Art Institute of Chicago/Hudson Hills, 2000), pp. 183, 205 (ill.).\n\nRichard R. Brettell, Impression: Painting Quickly in France, 1860–1890, exh. cat. (Sterling and Francine Clark Art Institute/Yale University Press, 2000), p. 136, n. 27.\n\nA. G. Kostenevich, Klod Mone [Claude Monet], exh. cat. (Khudozhnik i Kniga, 2001), pp. 62–65; cat. 17 (ill. and detail).\n\nRichard R. Brettell, “Monet e Parigi,” in Monet: I luoghi della pittura, ed. Marco Goldin, exh. cat. (Linea d’Ombra, 2001), pp. 124, 125 (ill.).\n\nMarco Goldin, L’impressionismo e l’età di Van Gogh, exh. cat. (Linea d’Ombra, 2002), p. 43 (ill.).\n\nRichard R. Brettell, From Monet to Van Gogh: A History of Impressionism, vol. 2 (Teaching Co., 2002), pp. 6, 16, 174.\n\nJudith Hayward, “Nature and Progress: Winslow Homer, His Critics and His Oils, 1880–1900” (Ph.D. diss., Columbia University, 2003), pp. 172; 362; 385, ill. 48.\n\nMichel Laclotte, ed., The Art and Spirit of Paris, vol. 2 (Abbeville, 2003), p. 1049, fig. 6.127; 1052.\n\nRichard Thomson, “Monet 1870–1890: Evoluzione, tradizione e decorazione,” in Turner e gli impressionisti: La grande storia del paesaggio moderno in Europa, ed. Marco Goldin, exh. cat. (Linea d’Ombra/Museo di Santa Giulia, 2006), p. 261, n. 8.\n\nDavid L. Pike, Metropolis on the Styx: The Underworlds of Modern Urban Culture, 1800–2001 (Cornell University Press, 2007), pp. 221; 224, fig. 4.3.\n\nWildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), pp. 238, cat. 21 (ill.); 300–301; 303.\n\nJoseph Baillio and Cora Michael, “Chronological and Pictorial Survey of the Life and Career of Claude Monet,” in Wildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), p. 166.\n\nJoseph Baillio and Cora Michael, “Highlights of the Exhibition,” in Wildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), pp. 194; 195 (detail).\n\nKelly Crow, “For Charity, Gallery Plays Museum,” Wall Street Journal, May 25, 2007. http://online.wsj.com/article/SB118004588897613954.html (accessed Jan. 28, 2013).\n\nLance Esplund, “A Whole New Light,” New York Sun, May 17, 2007. http://www.nysun.com/arts/whole-new-light/54648/(accessed Jan. 28, 2013).\n\nPaul Hayes Tucker, “Some Notes on Monet’s Practice,” in Wildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), pp. 74, fig. 12; 75.\n\nRichard Kendall, “Claude Monet, New York,” Burlington Magazine (July 2007), p. 511.\n\nRoberta Smith, “Monet Arrives and Ripens,” New York Times, May 4, 2007, p. E28.\n\nEric M. Zafran, “Monet in America,” in Wildenstein and Co., Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, exh. cat. (Wildenstein, 2007), p. 113.\n\nGloria Groom and Douglas Druick, with the assistance of Dorota Chudzicka and Jill Shaw, The Impressionists: Master Paintings from the Art Institute of Chicago, exh. cat. (Art Institute of Chicago/Kimbell Art Museum, 2008), pp. 19 (ill.); 54 (detail); 55, cat. 17 (ill.); 57. Simultaneously published as Gloria Groom and Douglas Druick, with the assistance of Dorota Chudzicka and Jill Shaw, The Age of Impressionism at the Art Institute of Chicago (Art Institute of Chicago/Yale University Press, 2008), pp. 19 (ill.); 54 (detail); 55, cat. 17 (ill.); 57. \n\nJames H. Rubin, Impressionism and the Modern Landscape: Productivity, Technology, and Urbanization from Manet to Van Gogh (University of California Press, 2008), p. 116.\n\nIan Kennedy, “Impressionism and Post-Impressionism,” in Ian Kennedy and Julian Treuherz, The Railway: Art in the Age of Steam, exh. cat. (Nelson-Atkins Museum of Art/Walker Art Gallery, Liverpool/Yale University Press, 2008), p. 159, fig. 56.\n\nJonathan Mane-Wheoki, “Monet’s Impressions of the Industrial Environment,” in George T. M. Shackelford, Monet and the Impressionists, exh. cat. (Art Gallery of New South Wales/Yale University Press, 2008), p. 149, fig. 33.\n\nArt Institute of Chicago, Master Paintings in the Art Institute of Chicago, selected by James Cuno (Art Institute of Chicago/Yale University Press, 2009), pp. 9, 54, 55 (ill.).\n\nClaudia Beltramo Ceppi, Monet: Il tempo delle ninfee, exh. cat. (Palazzo Reale/Giunti, 2009), pp. 33, fig. 18; 37.\n\nBrian Dudley Barrett, Artist on the Edge: The Rise of Coastal Artists’ Colonies, 1880–1920, with Particular Reference to Artists’ Communities around the North Sea (Amsterdam University Press, 2010), p. 43 (ill.).\n\nMary Mathews Gedo, Monet and His Muse: Camille Monet in the Artist’s Life (University of Chicago Press, 2010), pp. 189; 190, fig. 13.1.\n\nSégolène Le Men, Monet (Citadelles & Mazenod, 2010), pp. 19; 194; 216; 217, ill. 172; 218.\n\nRéunion des Musées Nationaux, Claude Monet, 1840–1926, exh. cat. (Réunion des Musées Nationaux/Musée d’Orsay, 2010), p. 153, cat. 44 (ill.).\n\nJohn House, “Le sujet chez Monet,” in Réunion des Musées Nationaux, Claude Monet, 1840–1926, exh. cat. (Réunion des Musées Nationaux/Musée d’Orsay, 2010), pp. 23, 27.\n\nPaul Stelkens, “Die Hensmann–Villa in Grosskönigsdorf,” in Egon Heeg, Axel Kurth, and Peter Schreiner, eds., Königsdorf im Rheinland, Pulheimer Beiträge zur Geschichte, Sonderveröffentlichung 34 (Verein für Geschichte, 2011), pp. 425, fig. 32; 427; 478, n. 28.\n\n“Cat. 16: Arrival of the Normandy Train, Gare Saint-Lazare, 1877” in Monet Paintings and Drawings at the Art Institute of Chicago, ed. Gloria Groom and Jill Shaw (Art Institute of Chicago, 2014), <a href=\"https://publications.artic.edu/monet/reader/paintingsanddrawings/section/135470\">https://publications.artic.edu/monet/reader/paintingsanddrawings/section/135470</a>.\n\nCaroline Shields, Impressionism in the Age of Industry, exh. cat. (Friesens, 2019), 26-29, 50-54, 122-123, 240.\n\nGloria Groom, et. al. Monet and Chicago, exh. Cat. (Chicago: Art Institute, 2020), 16, 24, 26, 32 fig. 11, 52 (detail ill.), 53 cat. 18, 131.\n\nMichel Draguet and Michelangelo van Meerten, Tracks to modernity, exh. cat. (Brussels: Royal Museum of Fine Arts of Belgium; Brussels: EUROPALIA Arts Festival; Veurne: Hannibal Books\n, 2021), 51 cat. 42, 230.",
+    "exhibition_history": "Paris, 6, rue Le Peletier, 3e exposition de peinture [third Impressionist exhibition], Apr. 1877, cat. 97, as Arrivée du train de Normandie, gare St-Lazare, appartient à M. H . . . .\n\nParis, Galerie Georges Petit, 6e exposition international e de peinture et de sculpture, May 8–June 8, 1887, no cat. no. \n\nParis, Galerie Georges Petit, Claude Monet—A. Rodin, June 21–Sept. 21, 1889, cat. 33, as Gare Saint-Lazare. 1877. Appartient à M. de Bellio. \n\nParis, Grand Palais des Champs-Élysées, Exposition Universelle de 1900, L’exposition centennale de l’art français de 1800 a 1889, May 1–Nov. 12, 1900, cat. 484, as Le Train de Normandie (à M. Alexandre Bernheim jeune [sic]). \n\nBrussels, Libre Esthétique, Exposition des peintres impressionnistes, Feb. 25–Mar. 29, 1904, cat. 98, as La Gare Saint-Lazare. Exposition centennale, 1900. Appartient à MM. J. et G. Bernheim jeune [sic].\n\nNew York, Durand-Ruel, Monet, Dec. 2–23, 1911, cat. 8. \n\nArt Institute of Chicago, “A Century of Progress”: Loan Exhibition of Paintings and Sculpture, May 23–Nov. 1, 1933, cat. 299.\n\nArt Institute of Chicago, “A Century of Progress”: Loan Exhibition of Paintings and Sculpture for 1934, June 1–Oct. 31, 1934, cat. 219. \n\nBoston, Museum of Fine Arts, Independent Painters of Nineteenth Century Paris, Mar. 15–Apr. 28, 1935, cat. 32.\n\nNew York World’s Fair, European & American Paintings, 1500–1900: Masterpieces of Art, May–Oct. 1940, cat. 322.\n\nDayton (Ohio) Art Institute, The Railroad in Painting: An Exhibition of Paintings Shown at the Dayton Art Institute, Apr. 19–May 22, 1949, cat. 50 (ill.).\n\nCambridge, Massachusetts Institute of Technology, Charles Hayden Memorial Library, The Painter and the City, May 8–June 15, 1950, no cat. no. (ill.).\n\nPhiladelphia Museum of Art, Diamond Jubilee Exhibition: Masterpieces of Painting, Nov. 3, 1950–Feb. 11, 1951, cat. 70 (ill.). \n\nParis, Musée de l’Orangerie, De David à Toulouse-Lautrec: Chefs-d’oeuvres des collections américaines, Apr. 20–July 3, 1955, cat. 42 (ill.). \n\nArt Institute of Chicago, The Paintings of Claude Monet, Apr. 1–June 15, 1957, no cat. no. \n\nMunich, Haus der Kunst München, Französische Malerei des 19. Jahrhunderts: Von David bis Cézanne, Oct. 7, 1964–Jan. 6, 1965, cat. 191 (ill.).\n\nMinneapolis Institute of Arts, The Past Rediscovered: French Painting, 1800–1900, July 3–Sept. 7, 1969, cat. 60 (ill.).\n\nNew York, Wildenstein and Company, “One Hundred Years of Impressionism:” A Tribute to Durand-Ruel, Apr. 2–May 9, 1970, cat. 37 (ill.).\n\nArt Institute of Chicago, Paintings by Monet, Mar. 15–May 11, 1975, cat. 42 (ill.). \n\nArt Institute of Chicago, Art at the Time of the Centennial, June 19–Aug. 8, 1976, no cat. \n\nWashington, D.C., National Gallery of Art, Manet and Modern Paris, Dec. 5, 1982–Mar. 6, 1983, cat. 14 (ill.).\n\nLos Angeles County Museum of Art, A Day in the Country: Impressionism and the French Landscape, June 28–Sept. 16, 1984, cat. 32 (ill.); Art Institute of Chicago, Oct. 23, 1984–Jan. 6, 1985; Paris, Galeries Nationales, Grand Palais, as L’impressionnisme et le paysage français, Feb. 4–Apr. 22, 1985, cat. 70 (ill.).\n\nWashington, D.C., National Gallery of Art, The New Painting: Impressionism, 1874–1886, Jan. 17–Apr. 6, 1986, cat. 51 (ill.); Fine Arts Museums of San Francisco and M. H. de Young Memorial Museum, Apr. 19–July 6, 1986.\n\nArt Institute of Chicago, Chicago’s Dream, a World’s Treasure: The Art Institute of Chicago, 1893–1993, Nov. 1, 1993–Jan. 9, 1994, not in cat. \n\nNagaoka, Niigata Prefectural Museum of Modern Art, Shikago bijutsukan ten: Kindai kaiga no 100-nen [Masterworks of modern art from the Art Institute of Chicago], Apr. 20–May 29, 1994, cat. 7 (ill.); Nagoya, Aichi Prefectural Museum of Art, June 10–July 24, 1994; Yokohama Museum of Art, Aug. 6–Sept. 25, 1994.\n\nArt Institute of Chicago, Claude Monet, 1840–1926, July 22–Nov. 26, 1995, cat. 50 (ill.).\n\nVienna, Österreichische Galerie, Claude Monet, Mar. 14–June 16, 1996, cat. 24 (ill.).\n\nCopenhagen, Ordrupgaard, Impressionister i byen, Sept. 6–Dec. 1, 1996, cat. 44 (ill.).\n\nParis, Musée d’Orsay, Manet, Monet and the Gare Saint-Lazare, Feb. 9–May 17, 1998, cat. 47 (ill.); Washington, D.C., National Gallery of Art, June 14–Sept. 20, 1998.\n\nFlorence, Sala Bianca di Palazzo Pitti, Claude Monet: La poesia della luce; Sette capolavori dell’Art Institute di Chicago a Palazzo Pitti, June 2–Aug. 29, 1999, no cat. no. (ill.).\n\nMoscow, State Pushkin Museum of Fine Arts, Klod Mone [Claude Monet], Nov. 26, 2001–Feb. 21, 2002, cat. 17 (ill.), Saint Petersburg, State Hermitage Museum, May 1–15, 2002. \n\nNew York, Wildenstein and Company, Claude Monet (1840–1926): A Tribute to Daniel Wildenstein and Katia Granoff, April 27–June 15, 2007, cat. 21 (ill.).\n\nFort Worth, Tex., Kimbell Art Museum, The Impressionists: Master Paintings from the Art Institute of Chicago, June 29–Nov. 2, 2008, cat. 17 (ill.).\n\nParis, Galeries Nationales, Grand Palais, Claude Monet, 1840–1926, Sept. 22, 2010–Jan. 24, 2011, cat. 44 (ill.).\n\nMunich, Städel Museum, Monet and the Birth of Impressionism, March 11-June 21, 2015, cat. 85.\n\nArt Institute of Chicago, John Singer Sargent and Chicago's Gilded Age, June 27-Septembet 30, 2018.\n\nToronto, Art Gallery of Ontario, Impressionism in the Age of Industry, February 16 - May 5 2019\n\nArt Institute of Chicago, Monet and Chicago, September 5, 2020-June 14, 2021, cat. 18.\n\nBrussels, Musees royaux des beaux-arts de Belgique, Tracks to Modernity, Oct. 13, 2021-Feb. 13, 2022, cat. 42.\n\nParis, Musée d’Orsay, Enfin le cinéma! Arts, images et spectacles en France 1833-1907, Sep. 27, 2021-Jan. 16, 2022; Loas Angeles County Museum of Art, City of Cinema: Paris 1850-1907, Feb. 20-July 10, 2022 [Los Angeles only]",
+    "provenance_text": "The artist (d. 1926); sold to Ernest Hoschedé, Paris and Montgeron, Mar. 1877 [this and the following per Wildenstein 1996]. Georges de Bellio (d. 1894), Paris, 1878; by descent his daughter Victorine (de Bellio) Donop de Monchy and son-in-law Eugène Donop de Monchy, Paris, 1894 [per Niculescu, Paragone 249 (Nov. 1970)]. Bernheim-Jeune, Paris, around 1899 [this and the following per Wildenstein 1996]. Paul Rosenberg, Paris, by Oct. 13, 1911; sold to Durand-Ruel, Paris, Oct. 13, 1911, for 13,000 francs [per Durand-Ruel, Paris, stock book for 1901 (no. 9749, as La gare Saint-Lazare, le train de Normandie), as confirmed by Paul-Louis Durand-Ruel and Flavie Durand-Ruel, Durand-Ruel Archives, to the Art Institute of Chicago, Oct. 5, 2010, curatorial object file]. Durand-Ruel, New York, by Dec. 16, 1911 [this and the following per Durand-Ruel, New York, stock book for 1904–24 (no. 3502, as Paris la gare Saint-Lazare), as confirmed by Paul-Louis Durand-Ruel and Flavie Durand-Ruel, Durand-Ruel Archives, to the Art Institute of Chicago, Oct. 5, 2010, curatorial object file]; sold to Martin A. Ryerson (d. 1932), Chicago, Dec. 16, 1911, for $7,000; bequeathed to the Art Institute of Chicago, 1933.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1933,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": true,
+    "has_educational_resources": false,
+    "colorfulness": 13.9542,
+    "color": {
+    "h": 6,
+    "l": 34,
+    "s": 53,
+    "percentage": 0.00018769614246888,
+    "population": 1
+    },
+    "latitude": 41.8796393562979,
+    "longitude": -87.6233766797276,
+    "latlon": "41.879639356298,41.879639356298",
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to Los Angeles County Museum of Art in Los Angeles for <i>Enfin le cinéma ! Arts, images et spectacles en France 1833-1907</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 35809,
+    "artist_title": "Claude Monet",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    35809
+    ],
+    "artist_titles": [
+    "Claude Monet"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [
+    null
+    ],
+    "term_titles": [
+    "painting",
+    "Impressionism",
+    "landscapes",
+    "oil painting",
+    "oil paint (paint)",
+    "european painting",
+    "painting (image making)",
+    "urban life",
+    "transportation",
+    "Century of Progress",
+    "world's fairs",
+    "Chicago World's Fairs"
+    ],
+    "style_id": "TM-7543",
+    "style_title": "Impressionism",
+    "alt_style_ids": [],
+    "style_ids": [
+    "TM-7543"
+    ],
+    "style_titles": [
+    "Impressionism"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "painting",
+    "european painting"
+    ],
+    "subject_id": "TM-8657",
+    "alt_subject_ids": [
+    "TM-10126",
+    "TM-8668",
+    "TM-12169",
+    "TM-11299",
+    "TM-12176"
+    ],
+    "subject_ids": [
+    "TM-8657",
+    "TM-10126",
+    "TM-8668",
+    "TM-12169",
+    "TM-11299",
+    "TM-12176"
+    ],
+    "subject_titles": [
+    "landscapes",
+    "urban life",
+    "transportation",
+    "Century of Progress",
+    "world's fairs",
+    "Chicago World's Fairs"
+    ],
+    "material_id": "TM-2451",
+    "alt_material_ids": [],
+    "material_ids": [
+    "TM-2451"
+    ],
+    "material_titles": [
+    "oil paint (paint)"
+    ],
+    "technique_id": "TM-4273",
+    "alt_technique_ids": [
+    "TM-3891"
+    ],
+    "technique_ids": [
+    "TM-4273",
+    "TM-3891"
+    ],
+    "technique_titles": [
+    "oil painting",
+    "painting (image making)"
+    ],
+    "theme_titles": [],
+    "image_id": "0f1cc0e0-e42e-be16-3f71-2022da38cb93",
+    "alt_image_ids": [],
+    "document_ids": [
+    "b0f825a6-e1e9-8607-b925-fd4d2e3b70f2",
+    "ec7cf803-7d44-ff3c-ad45-79cb5dc5f820"
+    ],
+    "sound_ids": [
+    "ec7cf803-7d44-ff3c-ad45-79cb5dc5f820"
+    ],
+    "video_ids": [],
+    "text_ids": [
+    "b0f825a6-e1e9-8607-b925-fd4d2e3b70f2"
+    ],
+    "section_ids": [
+    36725107186
+    ],
+    "section_titles": [
+    "Cat. 16  Arrival of the Normandy Train, Gare Saint-Lazare, 1877"
+    ],
+    "site_ids": [],
+    "suggest_autocomplete_boosted": "Arrival of the Normandy Train, Gare Saint-Lazare",
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1933.1158"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Arrival of the Normandy Train, Gare Saint-Lazare"
+    ],
+    "weight": 86286,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:47-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 10550,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/10550",
+    "is_boosted": false,
+    "title": "The Dance",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADUlIjglIT4tJ0EvKUAwKUUxKUQyKUczKUQyKkg3Lko4LUs3MFE9MVBANmJPPWFNP29bRXdkUXplUJuJdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURYDIYCsI8xSFNgdBECwE4UAgAOw==",
+    "width": 5226,
+    "height": 6362,
+    "alt_text": "A work made of oil on canvas."
+    },
+    "main_reference_number": "1932.52",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1745,
+    "date_end": 1755,
+    "date_display": "c. 1750",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Pietro Longhi\nItalian, 1702–1785",
+    "place_of_origin": "Italy",
+    "dimensions": "24 1/4 × 19 1/2 in.",
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Charles H. and Mary F. S. Worcester Collection",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 14,
+    "fiscal_year": 1932,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 19.3809,
+    "color": {
+    "h": 38,
+    "l": 65,
+    "s": 22,
+    "percentage": 0.023929905887098705,
+    "population": 210
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to Tate Britain in London for <i>Hogarth and Europe</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 35508,
+    "artist_title": "Pietro Longhi",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    35508
+    ],
+    "artist_titles": [
+    "Pietro Longhi"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [
+    null
+    ],
+    "term_titles": [
+    "oil on canvas",
+    "Century of Progress",
+    "painting",
+    "european painting",
+    "world's fairs",
+    "Chicago World's Fairs"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_ids": [
+    "TM-66",
+    "TM-9",
+    "TM-54"
+    ],
+    "classification_titles": [
+    "oil on canvas",
+    "painting",
+    "european painting"
+    ],
+    "subject_id": "TM-12169",
+    "alt_subject_ids": [
+    "TM-11299",
+    "TM-12176"
+    ],
+    "subject_ids": [
+    "TM-12169",
+    "TM-11299",
+    "TM-12176"
+    ],
+    "subject_titles": [
+    "Century of Progress",
+    "world's fairs",
+    "Chicago World's Fairs"
+    ],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "cb178a5a-6c55-c423-a186-d3d467a72f2f",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1932.52"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "The Dance"
+    ],
+    "weight": 2517,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:47-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 18747,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18747",
+    "is_boosted": false,
+    "title": "The Law is too Slow",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAD8+NUdGPVFPRltZTnJwYn17bX99boF+cYaCc4WDdYyIeJKOf7OvnrOvoMK8qszGscjEtMnHuNjSvtfTwQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAUR4MM0jjIEB0IYxQIIiQRFUwgAOw==",
+    "width": 2245,
+    "height": 3000,
+    "alt_text": "A work made of lithograph in black on cream japanese tissue."
+    },
+    "main_reference_number": "1925.1567",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1923,
+    "date_end": 1923,
+    "date_display": "1923",
+    "date_qualifier_title": "Made",
+    "date_qualifier_id": 4,
+    "artist_display": "George Wesley Bellows (American, 1882-1925)\nprinted by Bolton Coit Brown (American, 1864-1936)",
+    "place_of_origin": "United States",
+    "dimensions": "456 × 371 mm (image); 653 × 484 mm (sheet)",
+    "medium_display": "Lithograph in black on cream Japanese tissue",
+    "inscriptions": null,
+    "credit_line": "George F. Porter Collection",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 3,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 13.7701,
+    "color": {
+    "h": 47,
+    "l": 49,
+    "s": 8,
+    "percentage": 0.009165439340594049,
+    "population": 87
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to Mary and Leigh Block Museum of Art in Evanston for <i>A Site of Struggle: Making Meaning of Anti-Black Violence in American Art and Visual Culture</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Print",
+    "artwork_type_id": 18,
+    "department_title": "Prints and Drawings",
+    "department_id": "PC-13",
+    "artist_id": 33591,
+    "artist_title": "George Wesley Bellows",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    33591
+    ],
+    "artist_titles": [
+    "George Wesley Bellows"
+    ],
+    "category_ids": [
+    "PC-13"
+    ],
+    "category_titles": [
+    "Prints and Drawings"
+    ],
+    "artwork_catalogue_ids": [
+    null,
+    null
+    ],
+    "term_titles": [
+    "lithograph",
+    "lithography",
+    "printing",
+    "print",
+    "prints and drawing"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-71",
+    "classification_title": "lithograph",
+    "alt_classification_ids": [
+    "TM-17",
+    "TM-4"
+    ],
+    "classification_ids": [
+    "TM-71",
+    "TM-17",
+    "TM-4"
+    ],
+    "classification_titles": [
+    "lithograph",
+    "print",
+    "prints and drawing"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": "TM-3859",
+    "alt_technique_ids": [
+    "TM-3861"
+    ],
+    "technique_ids": [
+    "TM-3859",
+    "TM-3861"
+    ],
+    "technique_titles": [
+    "lithography",
+    "printing"
+    ],
+    "theme_titles": [],
+    "image_id": "dded1149-36e9-4843-a9d8-cd54a4e641ce",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1925.1567"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "The Law is too Slow"
+    ],
+    "weight": 2475,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:46-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 18754,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18754",
+    "is_boosted": false,
+    "title": "Bust of a Woman",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAAElGS1FNTlJPUXZzdHt6eo2LiZGPj6ampbq6tr/Au8TFvMTGvsrKxc3Ox97g2uLj3eTl3uvs5u3u6e7v6gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoJIUDXQMEQMQ0yIEzoMYUggAOw==",
+    "width": 5032,
+    "height": 6493,
+    "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1963.840",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1851,
+    "date_end": 1851,
+    "date_display": "1851",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Charles Henri Joseph Cordier\nFrench, 1827-1905\nCast by: Eck et Durand Fondeur\nFrench, 19th century",
+    "place_of_origin": "France",
+    "dimensions": "H. 71.5 x 40.6 x 29.2 cm (30 1/2 x 16 x 11 1/2 in.) (with socle)\nH. 62.2 cm (27 1/4 in.) (without socle)",
+    "medium_display": "Bronze",
+    "inscriptions": "Inscribed and dated:  1851 / CCORDIER",
+    "credit_line": "Ada Turnbull Hertle Endowment",
+    "publication_history": "\"R. & M. Andrade,\" Apollo 121, 423 (1960), p. x.\n\nArt Institute of Chicago, Annual Report, 1963-64, p. 19.\n\nJohn Maxon, Art Institute of Chicago Quarterly 58, 1 (1964).\n\nS. Réveilluad Kriz, L'Odyssée d'un peintre: Drouet Réveilluad (Paris: Fischbacher, 1973), p. 17.\n\nInstitut für Auslandsbeziehungen, Württembergischer Kunstverein, Exotische Welten, Europäsische phantasien (1987), pp. 357, 491, no. 3.62.\n\nNew York, Charles Janoray, LLC, A Golden Age of French Sculpture, 1850-1900 (2003), p. 40, fig. 2.\n\nParis, Musée d'Orsay, Charles Cordier, 1827-1905: l'autre et l'ailleurs (2004), pp. 19, 205, no. 475.\n\nFor comparison, see:\n\nStanislas Lami, Dictionnaire des sculpteurs de l’école Francaise au dix-neuviéme siècle 1, reprint (Liechtenstein, 1970), p. 417.\n\nHugh Honour, The Image of the Black in Western Art IV, 2 (Cambridge, MA, 1976-1989), pp. 100-02, fig. 72.\n\nJeannine Durand-Revillon, \"Un promoteur de la sculpture polychrome sous le Second Empire, Charles-Henri-Joseph Cordier (1827-1905),\" Soc. Hist. Art Francais (1982), p. 192.\n\nHermann Pollig, et al, Exotische Welten, Europäsische Phantasien (Stuttgart, 1987), pp. 357, 491, no. 3.62.\n\nAntoinette Le Normand-Romain, et al, La Sculpture ethnographique, de la Vénus hottentote à la Tehura de Gauguin (Paris, 1994), p. 55, no. 33.\n\nElyse Nelson and Wendy S. Walters, eds., Fictions of Emancipation: Carpeaux's Why Born Enslaved! Reconsidered, exh. cat. (New Haven and London: Yale University Press, 2022), 50, 53, pl. 30, 67-9, 94.",
+    "exhibition_history": "New York, The Metropolitan Museum of Art, Fictions of Emancipation: Carpeaux's Why Born Enslaved! Reconsidered, Mar. 7, 2022-Mar. 5, 2023, pl. 30.",
+    "provenance_text": "Cast in Paris, 1851 and believed to be the original pair cast for the artist [see letter from Gerald Kerin in curatorial object file].  Sold directly by the artist to an English (Devon) private collector, 1851 [according to letter from William Redford, in curatorial file; Cordier brought ethnographic busts to the 1862 London Exposition, see Exotische Welten, p. 357].  Purchased from same collector by William Redford, the agent for Gerald Kerin, Ltd. [see same letter in curatorial file].  Sold by Gerald Kerin, Ltd. to the Art Institute, 1963.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": true,
+    "has_educational_resources": false,
+    "colorfulness": 5.0955,
+    "color": {
+    "h": 339,
+    "l": 50,
+    "s": 3,
+    "percentage": 0.007632056381271369,
+    "population": 70
+    },
+    "latitude": 41.8798061640747,
+    "longitude": -87.6233076676725,
+    "latlon": "41.879806164075,41.879806164075",
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to The Metropolitan Museum of Art in New York City for <i>Fictions of Emancipation: Carpeaux Recast</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 5301,
+    "artist_title": "Charles Henri Joseph Cordier",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    5301
+    ],
+    "artist_titles": [
+    "Charles Henri Joseph Cordier"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "bronze",
+    "sculpture",
+    "bust/head",
+    "copper alloy",
+    "nonferrous metal",
+    "metal",
+    "inorganic material"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+    "TM-347"
+    ],
+    "classification_ids": [
+    "TM-13",
+    "TM-347"
+    ],
+    "classification_titles": [
+    "sculpture",
+    "bust/head"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [
+    "TM-2694",
+    "TM-2683",
+    "TM-2568",
+    "TM-2600"
+    ],
+    "material_ids": [
+    "TM-2430",
+    "TM-2694",
+    "TM-2683",
+    "TM-2568",
+    "TM-2600"
+    ],
+    "material_titles": [
+    "bronze",
+    "copper alloy",
+    "nonferrous metal",
+    "metal",
+    "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "725d19ab-4bd4-e640-86f2-a119e0a154e0",
+    "alt_image_ids": [],
+    "document_ids": [
+    "cb00e703-1452-422c-b2cc-72857a172537"
+    ],
+    "sound_ids": [
+    "cb00e703-1452-422c-b2cc-72857a172537"
+    ],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [
+    3
+    ],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1963.840"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Bust of a Woman"
+    ],
+    "weight": 7232,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:45-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 18751,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18751",
+    "is_boosted": false,
+    "title": "Bust of Said Abdullah of the Darfour People",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAACQpJiguLS4yMjM2NTQ5Ojg8OTxAQkdLSURJTGdnY2RnZHFzb3l7eoKDgYSEgomLjY2Oj5GRjsfGwsbFxAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoOQ0UwQI0KEMz1IQTGIgQQgAOw==",
+    "width": 1795,
+    "height": 2250,
+    "alt_text": "A work made of bronze."
+    },
+    "main_reference_number": "1963.839",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1848,
+    "date_end": 1848,
+    "date_display": "1848",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Charles Henri Joseph Cordier\nFrench, 1827-1905\nCast by: Eck et Durand Fondeur\nFrench, 19th century",
+    "place_of_origin": "France",
+    "dimensions": "H. 82.5 x 45.7 x 35.6 cm (32 1/2 x 18 x 14 in.) (with socle)\nH. 71.3 cm (28 1/8 in.) (without socle)",
+    "medium_display": "Bronze",
+    "inscriptions": "Inscribed:  CH. CORDIER 1848",
+    "credit_line": "Ada Turnbull Hertle Endowment",
+    "publication_history": "\"R. & M. Andrade,\" Apollo 121, 423 (1960), p. x.\n\nArt Institute of Chicago, Annual Report, 1963-64, p. 19.\n\nJohn Maxon, Art Institute of Chicago Quarterly 58, 1 (1964).\n\nS. Réveilluad Kriz, L'Odyssée d'un peintre: Drouet Réveilluad (Paris: Fischbacher, 1973), p. 17.\n\nInstitut für Auslandsbeziehungen, Württembergischer Kunstverein, Exotische Welten, Europäsische phantasien (1987), pp. 357, 491, no. 3.62.\n\nNew York, Charles Janoray, LLC, A Golden Age of French Sculpture, 1850-1900 (2003), p. 40, fig. 1.\n\nParis, Musée d'Orsay, Charles Cordier, 1827-1905: l'autre et l'ailleurs (2004), pp. 15, 18, 205, no. 474.\n\nFor comparison, see:\n\nStanislas Lami, Dictionnaire des sculpteurs de l’école Francaise au dix-neuviéme siècle 1, reprint (Liechtenstein, 1970), p. 417.\n\nHugh Honour, The Image of the Black in Western Art IV, 2 (Cambridge, MA, 1976-1989), pp. 100-02, fig. 72.\n\nJeannine Durand-Revillon, \"Un promoteur de la sculpture polychrome sous le Second Empire, Charles-Henri-Joseph Cordier (1827-1905),\" Soc. Hist. Art Francais (1982), pp. 182, 192, fig. 1.\n\nHermann Pollig, et al, Exotische Welten, Europäsische Phantasien (Stuttgart, 1987), pp. 357, 374, 491, no. 3.61.\n\nAntoinette Le Normand-Romain, et al, La Sculpture ethnographique, de la Vénus hottentote à la Tehura de Gauguin (Paris, 1994), p. 55, no. 33.\n\nElyse Nelson and Wendy S. Walters, eds., Fictions of Emancipation: Carpeaux's Why Born Enslaved! Reconsidered, exh. cat. (New Haven and London: Yale University Press, 2022), 50, 53, pl. 29, 67-9, 94.",
+    "exhibition_history": "New York, The Metropolitan Museum of Art, Fictions of Emancipation: Carpeaux's Why Born Enslaved! Reconsidered, Mar. 7, 2022-Mar. 5, 2023, pl. 29.",
+    "provenance_text": "Cast in Paris, 1848 and believed to be the original pair cast for the artist [see letter from Gerald Kerin in curatorial object file]; possibly sold directly by the artist to an English private collector in Devon, 1851 [according to letter from William Redford, in curatorial file; Cordier brought ethnographic busts to the 1862 London Exposition, see Exotische Welten, p. 357]; purchased from this collection by William Redford, the agent for Gerald Kerin, Ltd. [see same letter in curatorial file]; sold by Gerald Kerin, Ltd. to the Art Institute, 1963.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 14,
+    "fiscal_year": 1964,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": true,
+    "has_educational_resources": false,
+    "colorfulness": 4.6216,
+    "color": {
+    "h": 204,
+    "l": 37,
+    "s": 3,
+    "percentage": 0.10334663359574392,
+    "population": 920
+    },
+    "latitude": 41.8798421106219,
+    "longitude": -87.6233076676725,
+    "latlon": "41.879842110622,41.879842110622",
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to The Metropolitan Museum of Art in New York City for <i>Fictions of Emancipation: Carpeaux Recast</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Painting and Sculpture of Europe",
+    "department_id": "PC-10",
+    "artist_id": 5301,
+    "artist_title": "Charles Henri Joseph Cordier",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    5301
+    ],
+    "artist_titles": [
+    "Charles Henri Joseph Cordier"
+    ],
+    "category_ids": [
+    "PC-10"
+    ],
+    "category_titles": [
+    "Painting and Sculpture of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "bust/head",
+    "bronze",
+    "copper alloy",
+    "nonferrous metal",
+    "metal",
+    "inorganic material",
+    "sculpture"
+    ],
+    "style_id": null,
+    "style_title": null,
+    "alt_style_ids": [],
+    "style_ids": [],
+    "style_titles": [],
+    "classification_id": "TM-347",
+    "classification_title": "bust/head",
+    "alt_classification_ids": [
+    "TM-13"
+    ],
+    "classification_ids": [
+    "TM-347",
+    "TM-13"
+    ],
+    "classification_titles": [
+    "bust/head",
+    "sculpture"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2430",
+    "alt_material_ids": [
+    "TM-2694",
+    "TM-2683",
+    "TM-2568",
+    "TM-2600"
+    ],
+    "material_ids": [
+    "TM-2430",
+    "TM-2694",
+    "TM-2683",
+    "TM-2568",
+    "TM-2600"
+    ],
+    "material_titles": [
+    "bronze",
+    "copper alloy",
+    "nonferrous metal",
+    "metal",
+    "inorganic material"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "6a0e3e40-1e36-2109-378f-3fc5d29176b3",
+    "alt_image_ids": [],
+    "document_ids": [
+    "cb00e703-1452-422c-b2cc-72857a172537"
+    ],
+    "sound_ids": [
+    "cb00e703-1452-422c-b2cc-72857a172537"
+    ],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [
+    3
+    ],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1963.839"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Bust of Said Abdullah of the Darfour People"
+    ],
+    "weight": 7220,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:45-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 18759,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/18759",
+    "is_boosted": false,
+    "title": "Helmet Mask (Kponyungo)",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBgAFAPQAAAcICAYICQgICAkKCgsLCwwMDQwNDR8dHC8nITQqIjEtKzIwKz00Kjk1Mjw6OEM6M0k+M1dKQlBKRVdVVG5qZmxsbHd5eoJ/fJubnJ6enqampKipqa+urgAAAAAAAAAAACH5BAAAAAAALAAAAAAGAAUAAAUY4FAEAEEgyaMYgiNFUHNU1rQwVMZt2KWFADs=",
+    "width": 9376,
+    "height": 7379,
+    "alt_text": "A work made of wood and pigment."
+    },
+    "main_reference_number": "1963.842",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1850,
+    "date_end": 1950,
+    "date_display": "19th to early 20th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Senufo: Senambele\nCôte d'Ivoire\nNorthern Africa and the Sahel",
+    "place_of_origin": "Côte d'Ivoire",
+    "dimensions": "27.9 × 27.3 × 102.9 cm (11 × 10 3/4 × 40 1/2 in.)",
+    "medium_display": "Wood and pigment",
+    "inscriptions": null,
+    "credit_line": "African and Amerindian Art Purchase Fund",
+    "publication_history": "Museum of Primitive Art, Senufo Sculpture from West Africa (The Museum of Primitive Art, New York, 1963), cat. 34.\n\nAllen Wardwell, Primitive Art in the Collections of the Art Institute of Chicago (Art Institute of Chicago, 1965), fig. 65 (ill.)\n\nThe Art of Black Africa, exh. cat. (Flint Institute of Arts Exhibition, 1970), cat. 62 (ill.).\n\nPortland Museum of Art, Tribal Art of West Africa, exh. cat. (Portland Museum of Art, 1971), pl. 20.\n\nFrank Willet, African Art: An Introduction (New York and Toronto: Oxford University Press, 1971; repr. Thames and Hudson, 1993), p. 150, fig. 139.\n\nWarren M. Robbins and Nancy Ingram Nooter, African Art in American Collections (Washington and London: Smithsonian Institution Press, 1989), p. 117, fig. 164 (ill.).\n\nKathleen Bickford Berzock, “Art of the Western Sudan; African Art at the Art Institute of Chicago,” The Art Institute of Chicago Museum Studies 23, 2 (1997), pp. 117-118, fig. 10.\n\nWilliam J. Dewey, The World Moves, We Follow: Celebrating African Art, exh. cat. (Knoxville, Tenn.: Frank H. McClung Museum, University of Tennessee, 2003), p. 33, pl. 31.\n\nSusan Elizabeth Gagliardi, Senufo: Dynamics of Art and Identity in West Africa (The Cleveland Museum of Art and 5 Continents Press, 2015), p. 94.\n\nConstantine Petridis et al., Speaking of Objects: African Art at the Art Institute of Chicago (Chicago: Art Institute of Chicago, 2020), cat. no. 13, pp. 50-51 (ill.).\n\nConstantine Petridis, ed., The Language of Beauty in African Art, ex. cat. (Yale University Press, 2022), cat. no. 260, p. 281 (ill.).",
+    "exhibition_history": "New York, N.Y., The Museum of Primitive Art, Senufo Sculpture from West Africa, Feb. 20-May 5, 1963, cat. 34; traveled to the Art Institute of Chicago, July 12-Aug. 11, 1963; the Baltimore Museum of Art, Sep. 17-Oct. 27, 1963.\n\nFlint, Mich., Flint Institute of Arts, The Art of Black Africa, Feb. 8-April 5, 1970, cat. 62\n\nPortland, Maine, Portland Museum of Art, Tribal Art of West Africa, Sep. 16–Oct. 31, 1971, cat. 20.\n\nArt Institute of Chicago, Spiritual Expressions: Art for Private Contemplation and Public Ceremony, Nov. 22, 1995–March 17, 1996, Gallery 142, no cat., brochure (ill.).\n\nKnoxville, Tenn., Frank H. McClung Museum, The World Moves, We Follow: Celebrating African Art, Jan. 10–May 18, 2003, cat. 31.\n\nCleveland Museum of Art, Senufo: Dynamics of Art and Identity in West Africa, Feb. 22–May 31, 2015, cat. 60; traveled to Saint Louis Art Museum, June 28–Sept. 27, 2015; Montpellier, France, Musée Fabre, Nov. 28, 2015–March 6, 2016 (Cleveland and Saint Louis only).",
+    "provenance_text": "Henri (died 1992) and Hélène (ex-Kamer) Leloup, Henri A. Kamer Gallery, New York, N.Y., by 1963 [in Senfuo Sculpture from West Africa, 1963, cat. 34, listed as Collection Mr. and Mrs. Henri A. Kamer, New York]; sold to the Art Institute, Nov. 1963.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 43,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 13.3292,
+    "color": {
+    "h": 246,
+    "l": 47,
+    "s": 0,
+    "percentage": 0.04859294830567823,
+    "population": 272
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Mask",
+    "artwork_type_id": 7,
+    "department_title": "Arts of Africa",
+    "department_id": "PC-1",
+    "artist_id": 30074,
+    "artist_title": "Senufo",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    30074
+    ],
+    "artist_titles": [
+    "Senufo"
+    ],
+    "category_ids": [
+    "PC-1"
+    ],
+    "category_titles": [
+    "Arts of Africa"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "wood (plant material)",
+    "senufo",
+    "masks",
+    "masks",
+    "carving",
+    "Northern Africa and the Sahel",
+    "arts of Africa",
+    "Arts of Africa",
+    "hyena",
+    "pigment",
+    "crocodiles",
+    "african art",
+    "african Art",
+    "ceremonial mask",
+    "animals",
+    "painting (coating)",
+    "antelope",
+    "ram",
+    "composite",
+    "ancestors",
+    "supernatural",
+    "performance",
+    "funerals",
+    "protector"
+    ],
+    "style_id": "TM-6334",
+    "style_title": "senufo",
+    "alt_style_ids": [
+    "TM-13551",
+    "TM-14183",
+    "TM-13489"
+    ],
+    "style_ids": [
+    "TM-6334",
+    "TM-13551",
+    "TM-14183",
+    "TM-13489"
+    ],
+    "style_titles": [
+    "senufo",
+    "Northern Africa and the Sahel",
+    "Arts of Africa",
+    "african Art"
+    ],
+    "classification_id": "TM-245",
+    "classification_title": "masks",
+    "alt_classification_ids": [
+    "TM-14182",
+    "TM-13486",
+    "TM-12149"
+    ],
+    "classification_ids": [
+    "TM-245",
+    "TM-14182",
+    "TM-13486",
+    "TM-12149"
+    ],
+    "classification_titles": [
+    "masks",
+    "arts of Africa",
+    "african art",
+    "ceremonial mask"
+    ],
+    "subject_id": "TM-12113",
+    "alt_subject_ids": [
+    "TM-13559",
+    "TM-13557",
+    "TM-12218",
+    "TM-12427",
+    "TM-13558",
+    "TM-12874",
+    "TM-12147",
+    "TM-12867",
+    "TM-12949",
+    "TM-13472",
+    "TM-13609"
+    ],
+    "subject_ids": [
+    "TM-12113",
+    "TM-13559",
+    "TM-13557",
+    "TM-12218",
+    "TM-12427",
+    "TM-13558",
+    "TM-12874",
+    "TM-12147",
+    "TM-12867",
+    "TM-12949",
+    "TM-13472",
+    "TM-13609"
+    ],
+    "subject_titles": [
+    "masks",
+    "hyena",
+    "crocodiles",
+    "animals",
+    "antelope",
+    "ram",
+    "composite",
+    "ancestors",
+    "supernatural",
+    "performance",
+    "funerals",
+    "protector"
+    ],
+    "material_id": "TM-2431",
+    "alt_material_ids": [
+    "TM-2509"
+    ],
+    "material_ids": [
+    "TM-2431",
+    "TM-2509"
+    ],
+    "material_titles": [
+    "wood (plant material)",
+    "pigment"
+    ],
+    "technique_id": "TM-3863",
+    "alt_technique_ids": [
+    "TM-4005"
+    ],
+    "technique_ids": [
+    "TM-3863",
+    "TM-4005"
+    ],
+    "technique_titles": [
+    "carving",
+    "painting (coating)"
+    ],
+    "theme_titles": [],
+    "image_id": "a6b0bddb-5593-2970-baed-a677eaaa9a25",
+    "alt_image_ids": [
+    "a9678cf4-41b2-9334-21a4-e7864aaac4f1"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1963.842"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Helmet Mask (Kponyungo)"
+    ],
+    "weight": 5458,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:44-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 21727,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/21727",
+    "is_boosted": false,
+    "title": "Thanksgiving",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAAEM6NVA+NlFGPlxIPlNHQGRTR2lTRmxWTGtfTnVaSXdbSXJdTndcTXFiUX5mU39sW3NxZXxzYX51Y316aYBgTYtsWoh1XpFwXYJ9bZR2Ypd+bI2AZ5qJb5GJc5CMd5CPfpaRfZaSfbGKcQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhQNAn5MFAJh3JBjEIRASNRyFB4QAIGY3CYVkcKqKLgREEADs=",
+    "width": 8300,
+    "height": 5816,
+    "alt_text": "A chaotic but happy kitchen scene: A light-skinned woman in a pink dress at left bends to take a turkey out of the oven, while another at right forms a pie near a small girl playing with a kitten. Behind them, a woman selects dishware as yet another carries a basket of ingredients. A fifth woman in the back puts on a fancy hat and coat near a pair of babies reaching out from their twin high chair."
+    },
+    "main_reference_number": "1935.313",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1935,
+    "date_end": 1935,
+    "date_display": "c. 1935",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Doris Lee\nAmerican, 1905–1983",
+    "place_of_origin": "United States",
+    "dimensions": "71.3 × 101.8 cm (28 1/8 × 40 1/8 in.)",
+    "medium_display": "Oil on canvas",
+    "inscriptions": "Signed lower right: Doris Lee",
+    "credit_line": "Mr. and Mrs. Frank G. Logan Purchase Prize Fund",
+    "publication_history": "C.J. Bulliet, “Around the Galleries,” Chicago Daily News, October 26, 1935.\n\n\"'If This Is American Art, Let's Scrap It,' Says Critic of Chicago Show,\" Art Digest 10, 3 (Nov. 1, 1935): 5, ill.\n\nVirginia Gardner, “Calls Prize Canvas Atrocious,” Chicago Tribune, November 6, 1935.\n\n\"Awards Shock Art Patrons: Mrs. Logan Terms Pictures 'Vulgar' and 'Indecent,'\" Herald–Examiner, November 8, 1935.\n\n“Controversy Continues over Merits of American Art Exhibition,” Chicago Tribune, November 8, 1935, 5, ill.\n\n“Art Show Gives “Jitters” to Mrs. Logan,” Chicago American, November 9, 1935.\n\n“Doris Emrick Lee Picture Shown at Chicago,” Carthage, Illinois Republican, November 13, 1935.\n\nGifford Ernest, “New Art Institute Show Reveals Depression Used for Ideas in Paintings,” Chicago Daily News, November 15, 1935, 40.\n\n“Doris Lee’s ‘Americana’ Shown in New York,” Art Digest 10, 12 (March 15, 1936): 20.\n\n“Doris Lee One–Woman’s It At The Walker Gallery,” American Magazine of Art 29 (May 1936): 334.\n\n“Doris Lee: An American Painter with a Humorous Sense of Violence,” Life, September 20, 1937, 44.\n\nJosephine Hancock Logan, Sanity in Art (Chicago: A. Kroch, 1937), 92 (ill.).\n\n“Chicago Surveys Half Century of Native Art,” Art Digest 14, 4 (November 1939): 9, 34.\n\n“Worcester Surveys a Decade of American Painting, 1930–1940,” Art Digest 16, 11 (March 1942): 5 (ill.).\n\n“A Decade of American Painting, 1930–1940,” Worcester Art Museum News Bulletin and Calendar 7, 6 (March 1942): 1 (ill.).\n\nAlfred M. Frankfurter, “Only Yesterday in American Painting: Worcester Shows 50 Pictures of the Turbulent 30s,” Art News 41, 2 (March 1942): 10 (ill.).\n\nDoris Lee, Doris Lee (American Artists Group, 1946), 6, 7 (ill.).\n\nCharles Fabens Kelley, “Chicago: Record Years,” Art News 51, 4 (June–August 1952), 69 (ill.).\n\nArt Institute of Chicago, Masterpieces in the Art Institute of Chicago (Art Institute of Chicago, 1952), n.p. (ill.).\n\nKenneth Shopen, “Painting that Raised a Storm now Symbol of Thanksgiving,” Chicago Daily News, November 23, 1953.\n\nMary Anne Guitar, “Close–up of the Artist…Doris Lee,” Famous Artists Magazine, Winter 1959, 23 (ill.).\n\nArt Institute of Chicago, Paintings in the Art Institute of Chicago (Art Institute of Chicago, 1961), 257.\n\n“Beeline,” Chicago Daily News, November 27, 1974.\n\nMatthew Baigell, The American Scene: American Painting of the 1930s (New York: Praeger, 1974), 59, pl. 11.\n\nCharlotte Moser, “’In the Highest Efficiency’: Art Training at the School of the Art Institute of Chicago,” in The Old Guard and the Avant–Garde: Modernism in Chicago, 1910–1940, ed. Sue Ann Prince (University of Chicago Press, 1990), 207–208.\n\nDeedee Wigmore, Doris Lee: Images of Delight 1930–1950 (D. Wigmore Fine Art, Inc., 1996), 3.\n\nTodd D. Smith, “Painting for the Middlebrow: Doris Lee and the Making of a Popular Artist,” in American Art from the Dicke Collection, exh. cat., (Dayton, OH: Dayton Art Institute, 1997), 33 (ill.), 34, 39–42.\n\nJudith A. Barter et al., American Modernism at the Art Institute of Chicago, From World War I to 1955, (Chicago: Art Institute of Chicago/Yale University Press, 2009), no. 81.\n\nJessica Skwire Routhier, \"The Art of Doris Lee,\" Antiques and The Arts Weekly, Sept 17, 2021, 30-31 (Ill.).\n\nMeredith Mendelsohn, \"Doris Lee, Unjustly Forgotten, Gets a Belated but Full Blown Tribute,\" The New York Times, last updated Dec 30, 2021, <a href=\"http://nytimes.com/2021/12/30/arts/design/doris-lee-overlooked-artist-exhibition.html\">http://nytimes.com/2021/12/30/arts/design/doris-lee-overlooked-artist-exhibition.html</a> (ill.).",
+    "exhibition_history": "Washington, DC, Corcoran Gallery of Art, Fourteenth Biennial Exhibition of Contemporary American Oil Paintings, Mar 24–May 5, 1935, cat. 220.\n\nArt Institute of Chicago, Forty–Sixth Annual Exhibition of American Paintings and Sculpture, Oct 24–Dec 8, 1935, cat. 123.\n\nArt Institute of Chicago, Half a Century of American Art, Nov 16–Jan 7, 1940, cat. 101.\n\nMontclair Art Museum, NJ, America Yesterday and Today, Jan 2–26, 1941, cat. 35.\n\nWorcester Art Museum, MA, A Decade of American Painting: 1930–1940, Feb 18–Mar 22, 1942, p. 18.\n\nBrussels, Galerie Georges Giroux, L’Exposition d’art Américain contemporain, Mar 20–Apr 10, 1948, cat. 60.\n\nCoral Gables, FL, Miami University Art Gallery, Sep 29–Nov 15, 1950, no. cat.\n\nDallas Museum of Fine Arts, Famous Paintings and Famous Painters, Oct 4–Nov 2, 1958, cat. 21.\n\nDenver Art Museum, The American Panorama, Mar 17–May 27, 1968, no cat.\n\nColumbus, OH, Ohio State University Art Gallery, America, ca. 1930, Oct 12–31, 1968, no cat.\n\nPoughkeepsie, NY, Vassar College Art Gallery, Seven American Women: The Depression Decade, Jan 19–Mar 5, 1976, cat. 52.\n\nWichita Art Museum, The Neglected Generation of American Realist Painters: 1930–1948, May 3–Jun 14, 1981, fig. 27.\n\nRoslyn Harbor, NY, Nassau County Museum of Art, American Realism Between the Wars: 1919–1941, Apr 10–Jun 5, 1994, pp. 18–21, 61, fig. 21.\n\nArt Institute of Chicago, Art and Appetite: American Painting, Culture, and Cuisine, Nov 10, 2013–Jan 27, 2014, cat. 32; Fort Worth, Amon Carter Museum of American Art, Feb 22–May 18, 2014.\n\nArt Institute of Chicago, America After the Fall: Painting in the 1930s, Jun 5–Sep 18, 2016, cat. 30; Paris, Musée de l'Orangerie, Oct 15, 2016–Jan 30, 2017; London, Royal Academy, Feb 25–Jun 4, 2017.\n\nShanghai Museum, Pathways to Modernism: American Art, 1865–1945, Sep 28, 2018–Jan 6, 2019, cat. 61.\n\nGreensburg, PA, Westmoreland Museum of American Art, Simple Pleasures: The Art of Doris Lee, Sept 26, 2021–Jan 9, 2022, cat.; Davenport, IA, Figge Art Museum, Feb 5–May 8, 2022; Vero Beach, FL, Vero Beach Museum of Art, Jun 5–Sept 18, 2022; Memphis, TN, Dixon Gallery and Gardens, Oct 30, 2022–Jan 15, 2023 (Greensburg, Davenport, and Vero Beach only).",
+    "provenance_text": "Doris Lee (1905–1983), c. 1935; sold to the Art Institute of Chicago, 1935.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1936,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 30.1231,
+    "color": {
+    "h": 37,
+    "l": 57,
+    "s": 19,
+    "percentage": 0.43314807120649207,
+    "population": 2158
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to Figge Art Museum in Davenport for <i>Simple Pleasures: The Art of Doris Lee</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 15033,
+    "artist_title": "Doris Lee",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    15033
+    ],
+    "artist_titles": [
+    "Doris Lee"
+    ],
+    "category_ids": [
+    "PC-825",
+    "PC-3"
+    ],
+    "category_titles": [
+    "Women artists",
+    "Arts of the Americas"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "painting",
+    "oil paint (paint)",
+    "Modernism",
+    "canvas",
+    "modern and contemporary art"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+    "TM-5981"
+    ],
+    "style_titles": [
+    "Modernism"
+    ],
+    "classification_id": "TM-9",
+    "classification_title": "painting",
+    "alt_classification_ids": [
+    "TM-155"
+    ],
+    "classification_ids": [
+    "TM-9",
+    "TM-155"
+    ],
+    "classification_titles": [
+    "painting",
+    "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+    "TM-3124"
+    ],
+    "material_ids": [
+    "TM-2451",
+    "TM-3124"
+    ],
+    "material_titles": [
+    "oil paint (paint)",
+    "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+    "Women artists"
+    ],
+    "image_id": "d388928f-3222-b48c-1cbb-7afa917de928",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1935.313"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Thanksgiving"
+    ],
+    "weight": 30492,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:43-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 21678,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/21678",
+    "is_boosted": false,
+    "title": "Foliate Bowl with Stylized Peony Spray",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBQAFAPQAAGprc3N1fHh4f35+hYOFiYSGjoSIjIaIj4iJjYmKjYuOjo2PjoqKkI+Sl56foKiqp6mxpq60rrG3sri/tr3Ku73Lu7vOxM3bztDd0gAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAFAAUAAAUVYMA4TTFA1XQklHUhQoRJALE8ihECADs=",
+    "width": 2250,
+    "height": 2250,
+    "alt_text": "A work made of qingbai ware; porcelain with underglaze carved decoration."
+    },
+    "main_reference_number": "1964.847",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1100,
+    "date_end": 1127,
+    "date_display": "Northern Song dynasty (960–1127), 12th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "China",
+    "place_of_origin": "China",
+    "dimensions": "H: 7.1 × diam. 20.1 cm (2 13/16 × 8 in.)",
+    "medium_display": "Qingbai ware; porcelain with underglaze carved decoration",
+    "inscriptions": null,
+    "credit_line": "Bequest of Russell Tyson",
+    "publication_history": null,
+    "exhibition_history": null,
+    "provenance_text": null,
+    "publishing_verification_level": "Web Basic",
+    "internal_department_id": 8,
+    "fiscal_year": null,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 8.9398,
+    "color": {
+    "h": 224,
+    "l": 54,
+    "s": 3,
+    "percentage": 0.4491668882950655,
+    "population": 3192
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Vessel",
+    "artwork_type_id": 23,
+    "department_title": "Arts of Asia",
+    "department_id": "PC-7",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+    "PC-7"
+    ],
+    "category_titles": [
+    "Arts of Asia"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "porcelain",
+    "bowl",
+    "Chinese (culture or style)",
+    "porcelain",
+    "dish (vessel)",
+    "asian art",
+    "ceramics",
+    "vessel"
+    ],
+    "style_id": "TM-4303",
+    "style_title": "Chinese (culture or style)",
+    "alt_style_ids": [],
+    "style_ids": [
+    "TM-4303"
+    ],
+    "style_titles": [
+    "Chinese (culture or style)"
+    ],
+    "classification_id": "TM-11712",
+    "classification_title": "bowl",
+    "alt_classification_ids": [
+    "TM-38",
+    "TM-11783",
+    "TM-26",
+    "TM-46",
+    "TM-27"
+    ],
+    "classification_ids": [
+    "TM-11712",
+    "TM-38",
+    "TM-11783",
+    "TM-26",
+    "TM-46",
+    "TM-27"
+    ],
+    "classification_titles": [
+    "bowl",
+    "porcelain",
+    "dish (vessel)",
+    "asian art",
+    "ceramics",
+    "vessel"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2448",
+    "alt_material_ids": [],
+    "material_ids": [
+    "TM-2448"
+    ],
+    "material_titles": [
+    "porcelain"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "8b687509-2df3-6b1e-5487-f437fa02a1b5",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1964.847"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Foliate Bowl with Stylized Peony Spray"
+    ],
+    "weight": 261,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:43-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 28454,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/28454",
+    "is_boosted": false,
+    "title": "Casket",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBwAFAPUAACgoKissLi0tLTk4Njk5OE5MSFJNQ1JPR1xXTV5bVWhjWGhkXG5oW2hoaG1tbXBwcXl3dX57dYJyT5eGX4aDe4yGe5qPdq2ee6afj7Omh8GxjsS1lMu9nMO6o9HEp9zLqNrOs93RtuHVugAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAHAAUAAAYhwADhYEAIAIWOyBPCDBgc0ObyUSwymonEknhQKhGIoxEEADs=",
+    "width": 4080,
+    "height": 2850,
+    "alt_text": "A work made of ivory, brass, tempera, and gold leaf."
+    },
+    "main_reference_number": "1926.389",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1100,
+    "date_end": 1199,
+    "date_display": "12th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Italian; Sicily",
+    "place_of_origin": "Sicily",
+    "dimensions": "9.5 × 15.9 × 9.7 cm (3 3/4 × 6 1/4 × 3 13/16 in.)",
+    "medium_display": "Ivory, brass, tempera, and gold leaf",
+    "inscriptions": null,
+    "credit_line": "Samuel P. Avery Endowment",
+    "publication_history": "Bulletin of the Art Institute of Chicago 20, 6 (1926) p. 88, ill.\n\nPerry Blythe Cott, Siculo-Arabic Ivories (Princeton, 1939), p. 33, no. 18, pl. 7.\n\nGeorg Swarzenski, review of Perry Blythe Cott, Siculo-Arabic Ivories in Art Bulletin, 22 (1940), p. 105.\n\nJosé Ferrandis Torres, Marfiles árabes de occidente (Madrid, 1940), vol. 2, pp. 169-170, no. 48, pl. 39.\n\nR. H. Pinder-Wilson and C. N. L. Brooke, \"The Reliquary of St. Petroc and the Ivories of Norman Sicily,\" Archaeologia or Miscellaneoous Tracts relating to Antiquity 104 (1973), pp. 275 n. 1, 303, 305.\n\nC[hristina] M. N[eilsen] in “Devotion and Splendor:  Medieval art at the Art Institute of Chicago,” Museum Studies 30, 2 (2004), pp. 21-22, ill., 90, no. 2.\n\nChristina Neilsen in “The Silk Road and Beyond:  Trade, Travel, and Transformation,” Museum Studies 33, 1 (2007), pp. 72-73, ill., 94-95.\n\nAnthony Cutler, “How and for whom they made the boxes” in Siculo-Arabic Ivories and Islamic Painting, 1100-1300.  Proceedings of the International Conference, Berlin, 6-8 July, 2007, ed. David Knipp (Munich, 2011), pp. 21, 24, 27, fig. 11.\n\nMaria Vittoria Fontana, “Hunting with Cheetahs on Painted Siculo-Arabic Ivories” in Siculo-Arabic Ivories and Islamic Painting, 1100-1300.  Proceedings of the International Conference, Berlin, 6-8 July, 2007, ed. David Knipp (Munich, 2011), pp. 125, 134.",
+    "exhibition_history": "The Art Institute of Chicago, Medieval Decorative Arts from Chicago Collections, October 2, 1985-January 5, 1986, no. cat.\n\nThe Art Institute of Chicago, Devotion and Splendor: Medieval Art at the Art Institute of Chicago, September 25, 2004-January 3, 2005, cat. 2.\n\nEvanston, Mary and Leigh Block Museum of Art, Northwestern Universtiy, Caravans of Gold, Fragments in Time: Art, Culture, and Exchange across Medieval Saharan Africa, January 26–July 21, 2019, p. 174 (ill.), p. 190 (ill.), and p. 194; traveled to Washington, D.C., National Museum of African Art, Smithsonian Institution, April 8–November 29, 2020.",
+    "provenance_text": "Achillito Chiesa, Milan, by 1926 (his sale, New York, American Art Association, April 16-17, 1926, no. 368); purchased by the Art Institute, 1926.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 6,
+    "fiscal_year": 1926,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": true,
+    "is_zoomable": true,
+    "max_zoom_window_size": -1,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 28.52,
+    "color": {
+    "h": 39,
+    "l": 49,
+    "s": 52,
+    "percentage": 0.001008707160206906,
+    "population": 5
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Decorative Arts",
+    "artwork_type_id": 8,
+    "department_title": "Applied Arts of Europe",
+    "department_id": "PC-9",
+    "artist_id": null,
+    "artist_title": null,
+    "alt_artist_ids": [],
+    "artist_ids": [],
+    "artist_titles": [],
+    "category_ids": [
+    "PC-9"
+    ],
+    "category_titles": [
+    "Applied Arts of Europe"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "norman",
+    "european decorative arts",
+    "ivory",
+    "medieval",
+    "european",
+    "decorative arts"
+    ],
+    "style_id": "TM-5866",
+    "style_title": "norman",
+    "alt_style_ids": [
+    "TM-5813",
+    "TM-4703"
+    ],
+    "style_ids": [
+    "TM-5866",
+    "TM-5813",
+    "TM-4703"
+    ],
+    "style_titles": [
+    "norman",
+    "medieval",
+    "european"
+    ],
+    "classification_id": "TM-1394",
+    "classification_title": "european decorative arts",
+    "alt_classification_ids": [
+    "TM-137",
+    "TM-1678"
+    ],
+    "classification_ids": [
+    "TM-1394",
+    "TM-137",
+    "TM-1678"
+    ],
+    "classification_titles": [
+    "european decorative arts",
+    "ivory",
+    "decorative arts"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": null,
+    "alt_material_ids": [],
+    "material_ids": [],
+    "material_titles": [],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [],
+    "image_id": "2d0d8332-670a-8b47-ce10-9501830ec778",
+    "alt_image_ids": [],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1926.389"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Casket"
+    ],
+    "weight": 2397,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:42-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 24306,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/24306",
+    "is_boosted": true,
+    "title": "Blue and Green Music",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhBAAFAPQAADpDPD5IPD1UPjlBQUlWUExQV0lUXE5VXGh9ZWV3anSRcUVjgXWBgGiLkoKZk4udrJCnqYq2sqfCi6nDwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAEAAUAAAURoBE1S/BMjlBAjAIkh4QMRAgAOw==",
+    "width": 4175,
+    "height": 5053,
+    "alt_text": "Abstract painting in predominant shades of blue, green, and black, featuring diagonal bands of color and undulating lines."
+    },
+    "main_reference_number": "1969.835",
+    "has_not_been_viewed_much": false,
+    "boost_rank": 60,
+    "date_start": 1919,
+    "date_end": 1921,
+    "date_display": "1919/21",
+    "date_qualifier_title": "c.",
+    "date_qualifier_id": 60,
+    "artist_display": "Georgia O'Keeffe\nAmerican, 1887–1986",
+    "place_of_origin": "United States",
+    "dimensions": "58.4 × 48.3 cm (23 × 19 in.)",
+    "medium_display": "Oil on canvas",
+    "inscriptions": null,
+    "credit_line": "Alfred Stieglitz Collection, gift of Georgia O'Keeffe",
+    "publication_history": "Art Institute of Chicago, The Art Institute of Chicago: Twentieth–Century Painting and Sculpture, selected by James N. Wood and Teri J. Edelstein (Art Institute of Chicago, 1996), p. 46 (ill.).\n\nBarbara Buhler Lynes, \"Georgia O'Keeffe: Catalogue Raisonné,\" (National Gallery of Art/Georgia O'Keeffe Foundation/Yale University Press, 1999) no. 1344 (vol. 1).\n\nJames W. Lane and Leo Katz, The Work of Georgia O’Keeffe: A Portfolio of 12 Paintings (New York, 1939), pl. 6.\n\nMilton W. Brown, American Painting from the Armory Show to the Depression (Princeton, 1955), ill. p. 126. \n\nLloyd Goodrich and Doris Bry, Georgia O’Keeffe (New York, 1970), p. 32 (ill.)\n\nArt Institute of Chicago, The Art Institute of Chicago: Twentieth–Century Painting and Sculpture, selected by James N. Wood and Teri J. Edelstein (Art Institute of Chicago, 1996), p.46, ill.\n\nBarbara Buhler Lynes, Georgia O'Keeffe Catalogue Raisonne Volume One (New Haven, Conneticut: Yale University Press;  Washington, DC: National Gallery of American Art; Abiquiu, New Mexico: The Georgia O'Keeffe Foundation, 1999), p 185, no.344.\n\nJudith A. Barter et al., American Modernism at the Art Institute of Chicago, From World War I to 1955, (Chicago: Art Institute of Chicago/Yale University Press, 2009), cat. 35.",
+    "exhibition_history": "Art Institute of Chicago, Georgia O’Keeffe, Jan 21–Feb 22, 1943, cat. 5 (ill. p. 11).\n\nNew York, Whitney Museum of Art, Georgia O’Keeffe Retrospective Exhibition, Oct 8–Nov 29, 1970, no. 23; the Art Institute of Chicago, Jan 1–Feb 7, 1971; San Francisco Museum of Art, Feb or Mar?–Apr 30, 1971.\n\nLondon, Tate Gallery, Abstraction: Towards a New Art, Painting 1910–20, Feb 5–Apr 13, 1980, cat. 438.\n\nLondon, Hayward Gallery, Georgia O'Keeffe: American and Modern, Apr 8–Jun 22, 1993; Mexico City, Palacio de Bellas Artes, Jul 15–Oct 1, 1993.\n\nSan Antonio, Texas, Marion Koogler McNay Art Museum, O'Keeffe and Texas, Jan 27–Apr 5, 1998.\n\nWashington, DC, National Gallery of Art, Alfred Stieglitz and Modern Art in America, Jan 28–Apr 22, 2001.\n\nParis, Centre Georges Pompidou, Sounds and Lights, Sep 22–Jan 3, 2005. \n\nWashington, DC, Hirshhorn Museum and Sculpture Garden, Visual Music, 1905–2005; Museum of Contemporary Art, Los Angeles, Feb 13–May 22, 2005, Hirshhorn Museum and Sculpture Garden, Jun 23–Sep 11, 2005.\n\nWhitney Museum of American Art, Georgia O'Keeffe: Abstraction, Sep 17, 2009–Jan 17, 2010; Washington DC, Phillips Collection, Feb 6–May 9, 2012; Santa Fe, Georgia O'Keeffe Museum, May 28–Sep 12, 2010 (New York only).\n\nLondon, Tate Modern, Georgia O'Keeffe, Jul 6–Oct 30, 2016; Vienna, Bank Austria Kunstforum Wien, Dec 7, 2016–Mar 26, 2017; Toronto, Art Gallery of Ontario, Apr 22–Jul 30, 2017 (London only) cat. 28.\n\nCologne, Germany, Wallraf-Richartz-Museum, Es war einmal in Amerika – 300 Jahre US-amerikanische Kunst [Once Upon a Time in America: Three Centuries of American Art], Nov 23, 2018–Mar 24, 2019, cat. 105.\n\nMadrid, Museo Nacional Thyssen-Bornemisza, Georgia O'Keeffe, Apr 20–Aug 8, 2021, cat. 19 (ill.); Paris, Centre Georges Pompidou, Sept 8–Dec 6, 2021; Basel, Fondation Beyeler, Jan 23–May 22, 2022.",
+    "provenance_text": "Georgia O’Keeffe (1887–1986), New York and New Mexico, 1919–21 [O’Keeffe moved permanently to New Mexico in 1949]; given through the Alfred Stieglitz Collection to the Art Institute of Chicago, 1969.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 21,
+    "fiscal_year": 1970,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": true,
+    "max_zoom_window_size": 1280,
+    "copyright_notice": "© The Art Institute of Chicago",
+    "has_multimedia_resources": false,
+    "has_educational_resources": true,
+    "colorfulness": 32.818,
+    "color": {
+    "h": 202,
+    "l": 32,
+    "s": 57,
+    "percentage": 0.06024236503616867,
+    "population": 518
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": "<p>On loan to Fondation Beyeler in Basel for <i>Georgia O'Keeffe</i></p>",
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Painting",
+    "artwork_type_id": 1,
+    "department_title": "Arts of the Americas",
+    "department_id": "PC-3",
+    "artist_id": 36062,
+    "artist_title": "Georgia O'Keeffe",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    36062
+    ],
+    "artist_titles": [
+    "Georgia O'Keeffe"
+    ],
+    "category_ids": [
+    "PC-825",
+    "PC-154",
+    "PC-827",
+    "PC-3"
+    ],
+    "category_titles": [
+    "Women artists",
+    "Chicago Artists",
+    "SAIC Alumni and Faculty",
+    "Arts of the Americas"
+    ],
+    "artwork_catalogue_ids": [
+    null
+    ],
+    "term_titles": [
+    "oil on canvas",
+    "oil paint (paint)",
+    "Modernism",
+    "canvas",
+    "painting",
+    "modern and contemporary art"
+    ],
+    "style_id": "TM-5981",
+    "style_title": "Modernism",
+    "alt_style_ids": [],
+    "style_ids": [
+    "TM-5981"
+    ],
+    "style_titles": [
+    "Modernism"
+    ],
+    "classification_id": "TM-66",
+    "classification_title": "oil on canvas",
+    "alt_classification_ids": [
+    "TM-9",
+    "TM-155"
+    ],
+    "classification_ids": [
+    "TM-66",
+    "TM-9",
+    "TM-155"
+    ],
+    "classification_titles": [
+    "oil on canvas",
+    "painting",
+    "modern and contemporary art"
+    ],
+    "subject_id": null,
+    "alt_subject_ids": [],
+    "subject_ids": [],
+    "subject_titles": [],
+    "material_id": "TM-2451",
+    "alt_material_ids": [
+    "TM-3124"
+    ],
+    "material_ids": [
+    "TM-2451",
+    "TM-3124"
+    ],
+    "material_titles": [
+    "oil paint (paint)",
+    "canvas"
+    ],
+    "technique_id": null,
+    "alt_technique_ids": [],
+    "technique_ids": [],
+    "technique_titles": [],
+    "theme_titles": [
+    "Women artists",
+    "Chicago Artists",
+    "SAIC Alumni and Faculty"
+    ],
+    "image_id": "702580d8-451e-0b0c-bcc1-bac62e5f6631",
+    "alt_image_ids": [],
+    "document_ids": [
+    "92a80080-7a67-c6aa-5fd8-1a294240f49c"
+    ],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [
+    "92a80080-7a67-c6aa-5fd8-1a294240f49c"
+    ],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_boosted": "Blue and Green Music",
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1969.835"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Blue and Green Music"
+    ],
+    "weight": 66140,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:42-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    },
+    {
+    "id": 30731,
+    "api_model": "artworks",
+    "api_link": "https://api.artic.edu/api/v1/artworks/30731",
+    "is_boosted": false,
+    "title": "Figure (Mbulu Ngulu)",
+    "alt_titles": null,
+    "thumbnail": {
+    "lqip": "data:image/gif;base64,R0lGODlhAwAFAPMAAHNjTHRuaoaAd5aOh6ainKOioqenpquopKurqq6trLGvrLKysbW0s7S0tLq6uQAAACH5BAAAAAAALAAAAAADAAUAAAQLkBF3gEpilWDQaBEAOw==",
+    "width": 5572,
+    "height": 9982,
+    "alt_text": "A work made of wood, brass, and ivory."
+    },
+    "main_reference_number": "1968.788",
+    "has_not_been_viewed_much": false,
+    "boost_rank": null,
+    "date_start": 1875,
+    "date_end": 1925,
+    "date_display": "Late 19th-early 20th century",
+    "date_qualifier_title": "",
+    "date_qualifier_id": null,
+    "artist_display": "Kota: Shamaye\nGabon\nCentral Africa",
+    "place_of_origin": "Gabon",
+    "dimensions": "H. 34.3 cm (13 1/2 in.)",
+    "medium_display": "Wood, brass, and ivory",
+    "inscriptions": null,
+    "credit_line": "Purchased with funds provided by the Alsdorf Foundation",
+    "publication_history": "Allen Wardwell, “New Acquisitions of African Art at the Art Institute of Chicago,” African Arts, vol. 4, no. 1 (1970), p. 19, fig. 7.\n\nLouis Perrois, “L’Art Kota-Mahongwe,” Arts d’Afrique Noire, vol. 20 (Winter 1976), pp. 1–37; p.33 (ill.).\n\nConstantine Petridis et al., Speaking of Objects: African Art at the Art Institute of Chicago (Chicago: Art Institute of Chicago, 2020), cat. no. 54, pp. 138-139 (ill.).",
+    "exhibition_history": null,
+    "provenance_text": "Henri (died 1992) and Hélène Kamer (later Hélène Leloup), Henri A. Kamer Gallery, New York, NY, by 1968 [incoming purchase consideration documented in curatorial file]; sold to the Art Institute, 1968.",
+    "publishing_verification_level": "Web Cataloged",
+    "internal_department_id": 43,
+    "fiscal_year": 1969,
+    "fiscal_year_deaccession": null,
+    "is_public_domain": false,
+    "is_zoomable": false,
+    "max_zoom_window_size": 843,
+    "copyright_notice": null,
+    "has_multimedia_resources": false,
+    "has_educational_resources": false,
+    "colorfulness": 16.2397,
+    "color": {
+    "h": 145,
+    "l": 49,
+    "s": 5,
+    "percentage": 0.0007855891525849812,
+    "population": 10
+    },
+    "latitude": null,
+    "longitude": null,
+    "latlon": null,
+    "is_on_view": false,
+    "on_loan_display": null,
+    "gallery_title": null,
+    "gallery_id": null,
+    "artwork_type_title": "Sculpture",
+    "artwork_type_id": 3,
+    "department_title": "Arts of Africa",
+    "department_id": "PC-1",
+    "artist_id": 30171,
+    "artist_title": "Kota",
+    "alt_artist_ids": [],
+    "artist_ids": [
+    30171
+    ],
+    "artist_titles": [
+    "Kota"
+    ],
+    "category_ids": [
+    "PC-1"
+    ],
+    "category_titles": [
+    "Arts of Africa"
+    ],
+    "artwork_catalogue_ids": [],
+    "term_titles": [
+    "wood (plant material)",
+    "sculpture",
+    "ancestors",
+    "shamaye",
+    "carving",
+    "arts of Africa",
+    "Arts of Africa",
+    "ivory",
+    "brass (alloy)",
+    "metal",
+    "inlay (process)",
+    "kota",
+    "african Art",
+    "funerary",
+    "african art",
+    "metalworking",
+    "Central Africa",
+    "guardian",
+    "deceased",
+    "reliquary"
+    ],
+    "style_id": "TM-13041",
+    "style_title": "shamaye",
+    "alt_style_ids": [
+    "TM-14183",
+    "TM-8214",
+    "TM-13489",
+    "TM-13564"
+    ],
+    "style_ids": [
+    "TM-13041",
+    "TM-14183",
+    "TM-8214",
+    "TM-13489",
+    "TM-13564"
+    ],
+    "style_titles": [
+    "shamaye",
+    "Arts of Africa",
+    "kota",
+    "african Art",
+    "Central Africa"
+    ],
+    "classification_id": "TM-13",
+    "classification_title": "sculpture",
+    "alt_classification_ids": [
+    "TM-14182",
+    "TM-11076",
+    "TM-13486"
+    ],
+    "classification_ids": [
+    "TM-13",
+    "TM-14182",
+    "TM-11076",
+    "TM-13486"
+    ],
+    "classification_titles": [
+    "sculpture",
+    "arts of Africa",
+    "funerary",
+    "african art"
+    ],
+    "subject_id": "TM-12147",
+    "alt_subject_ids": [
+    "TM-13632",
+    "TM-12922",
+    "TM-14360"
+    ],
+    "subject_ids": [
+    "TM-12147",
+    "TM-13632",
+    "TM-12922",
+    "TM-14360"
+    ],
+    "subject_titles": [
+    "ancestors",
+    "guardian",
+    "deceased",
+    "reliquary"
+    ],
+    "material_id": "TM-2431",
+    "alt_material_ids": [
+    "TM-2442",
+    "TM-2460",
+    "TM-2568"
+    ],
+    "material_ids": [
+    "TM-2431",
+    "TM-2442",
+    "TM-2460",
+    "TM-2568"
+    ],
+    "material_titles": [
+    "wood (plant material)",
+    "ivory",
+    "brass (alloy)",
+    "metal"
+    ],
+    "technique_id": "TM-3863",
+    "alt_technique_ids": [
+    "TM-3884",
+    "TM-4152"
+    ],
+    "technique_ids": [
+    "TM-3863",
+    "TM-3884",
+    "TM-4152"
+    ],
+    "technique_titles": [
+    "carving",
+    "inlay (process)",
+    "metalworking"
+    ],
+    "theme_titles": [],
+    "image_id": "e0e310b6-17a3-60c0-f9b5-2631abe9689c",
+    "alt_image_ids": [
+    "34eadae4-3bd1-0eaa-01e6-6e99a0f70142",
+    "8dca4fc2-fc5f-e6dd-b693-a22fb52b10ef"
+    ],
+    "document_ids": [],
+    "sound_ids": [],
+    "video_ids": [],
+    "text_ids": [],
+    "section_ids": [],
+    "section_titles": [],
+    "site_ids": [],
+    "suggest_autocomplete_all": [
+    {
+    "input": [
+    "1968.788"
+    ],
+    "contexts": {
+    "groupings": [
+    "accession"
+    ]
+    }
+    },
+    {
+    "input": [
+    "Figure (Mbulu Ngulu)"
+    ],
+    "weight": 599,
+    "contexts": {
+    "groupings": [
+    "title"
+    ]
+    }
+    }
+    ],
+    "last_updated_source": "2022-03-18T00:30:09-05:00",
+    "last_updated": "2022-03-18T00:31:41-05:00",
+    "timestamp": "2022-03-18T09:12:35-05:00"
+    }
+    ],
+    "info": {
+    "license_text": "The data in this response is licensed under a Creative Commons Zero (CC0) 1.0 designation and the Terms and Conditions of artic.edu.",
+    "license_links": [
+    "https://creativecommons.org/publicdomain/zero/1.0/",
+    "https://www.artic.edu/terms"
+    ],
+    "version": "1.3"
+    },
+    "config": {
+    "iiif_url": "https://www.artic.edu/iiif/2",
+    "website_url": "http://www.artic.edu"
+    }
+}
