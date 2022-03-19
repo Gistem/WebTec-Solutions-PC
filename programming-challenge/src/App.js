@@ -1,73 +1,64 @@
-import { useState, useEffect, useRef } from "react";
-import { SearchBar, ArtworksList, Pagination } from "./components";
-import "./App.css";
-// import data from "./data.json";
-import { getArtworks, searchArtwork } from "./api/artwork";
+import { useState, useEffect, useRef } from 'react'
 
-function App() {
-  // const inputSearch = useRef(null);
-  // const [search, setSearch] = useState("");
+import { getArtworks, searchArtwork } from './api/artwork'
 
-  // const [artworks, setArtworks] = useState([]);
+import './App.css'
 
-  // const [page, setPage] = useState(1);
+function App () {
+  const inputSearch = useRef(null)
+  const [search, setSearch] = useState('')
 
-  // const [errorState, setErrorState] = useState({ hasError: false });
+  const [artworks, setArtworks] = useState([])
 
-  // const handleError = (err) => {
-  //   setErrorState({ hasError: true, message: err.message });
-  // };
+  const [page, setPage] = useState(1)
 
-  // useEffect(() => {
-  //   getArtworks(page).then(setArtworks).catch(handleError);
-  //   // console.log(page, "pages");
-  // }, [page]);
+  const [errorState, setErrorState] = useState({ hasError: false })
 
-  // const onChangePage = (next) => {
-  //   // console.log(artworks, "artworks");
-  //   if (!artworks.pagination.prev_url && page + next <= 0) return;
-  //   if (!artworks.pagination.next_url && page + next >= 9) return;
+  const handleError = (err) => {
+    setErrorState({ hasError: true, message: err.message })
+  }
 
-  //   setPage(page + next);
-  // };
+  const onChangeSearch = (event) => {
+    event.preventDefault()
+    const text = inputSearch.current.value
+    setSearch(text)
+  }
 
-  // const onChangeSearch = (event) => {
-  //   event.preventDefault();
-  //   const text = inputSearch.current.value;
-  //   setSearch(text);
-  // };
+  const onSearchSubmit = () => {
+    inputSearch.current.value = ''
+    searchArtwork(search).then(setArtworks).catch(handleError)
+  }
 
-  // const onSearchSubmit = () => {
-  //   inputSearch.current.value = "";
-  //   searchArtwork(search).then(setArtworks).catch(handleError);
-  // };
+  const onChangePage = (next) => {
+    // console.log(artworks, "artworks");
+    if (!artworks.pagination.prev_url && page + next <= 0) return
+    if (!artworks.pagination.next_url && page + next >= 9) return
 
-  //  ONLY FOR TESTING PURPOSES
-  // <ul>
-  //   {data.data.map((artwork) => (
-  //     <li key={artwork.title}>{artwork.title}</li>
-  //   ))}
-  // </ul>
+    setPage(page + next)
+  }
 
+  useEffect(() => {
+    getArtworks(page).then(setArtworks).catch(handleError)
+    // console.log(page, "pages");
+  }, [page])
   return (
     <div>
-      <SearchBar />
-      <ArtworksList />
-      <Pagination />
-      {/* <input
+      <input
         ref={inputSearch}
         onChange={onChangeSearch}
         type="text"
         placeholder="Search"
       />
-      <button onClick={onSearchSubmit}>🔎</button> */}
-      {/* <ul>
+      <button onClick={onSearchSubmit}>🔎</button>
+
+      <ul>
         {errorState.hasError && <div>{errorState.message}</div>}
         {artworks?.data?.map((artwork) => (
           <li key={artwork.id}>{artwork.title}</li>
         ))}
-      </ul> */}
-      {/* <section>
+      </ul>
+
+      <section>
         <button type="button" onClick={() => onChangePage(-1)}>
           Prev
         </button>
@@ -75,9 +66,9 @@ function App() {
         <button type="button" onClick={() => onChangePage(1)}>
           Next
         </button>
-      </section> */}
+      </section>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
