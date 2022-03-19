@@ -30,16 +30,18 @@ function App () {
   }
 
   const onChangePage = (next) => {
-    // console.log(artworks, "artworks");
     if (!artworks.pagination.prev_url && page + next <= 0) return
-    if (!artworks.pagination.next_url && page + next >= 9) return
-
+    if (
+      !artworks.pagination.next_url &&
+      page + next >= artworks.pagination.total_pages
+    ) {
+      return
+    }
     setPage(page + next)
   }
 
   useEffect(() => {
     getArtworks(page).then(setArtworks).catch(handleError)
-    // console.log(page, "pages");
   }, [page])
   return (
     <div>

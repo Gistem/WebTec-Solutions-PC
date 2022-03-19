@@ -6,18 +6,6 @@ describe('Art Institute of Chicago API', () => {
   beforeAll(() => jest.spyOn(window, 'fetch'))
   // jest.spyOn creates a mock function
 
-  // it("Should show a list of artworks including Haunted House", () => {
-  //   render(<App />);
-  //   expect(screen.getByText("Paperwight")).toBeInTheDocument();
-  // });
-
-  // it("should show a list of artworks titles from a JSON filte", () => {
-  //   render(<App />);
-  //   for (let artwork of data.data) {
-  //     expect(screen.getByText(artwork.title)).toBeInTheDocument();
-  //   }
-  // });
-
   it('should should be a list of artworks from the API', async () => {
     window.fetch.mockResolvedValueOnce({
       ok: true,
