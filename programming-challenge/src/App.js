@@ -24,7 +24,7 @@ function App () {
     setSearch(text)
   }
 
-  const onSearchSubmit = () => {
+  const onSearchSubmit = (event) => {
     inputSearch.current.value = ''
     searchArtwork(search).then(setArtworks).catch(handleError)
   }
