@@ -1,6 +1,6 @@
 import { render, screen } from '@testing-library/react'
 import App from './App'
-import data from './data.json'
+
 
 describe('Art Institute of Chicago API', () => {
   beforeAll(() => jest.spyOn(window, 'fetch'))
